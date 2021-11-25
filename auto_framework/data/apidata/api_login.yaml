@@ -1,0 +1,56 @@
+LoginPage:
+  dec: 登录页面接口数据
+  login_api: #登录接口
+    name: 登录接口
+    method: post
+    url: /web/guest/home
+    header: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+    }
+    query_string: {
+      "p_p_id":"58",
+      "p_p_lifecycle":"1",
+      "p_p_state":"normal",
+      "p_p_mode":"view",
+      "p_p_col_id":"column-1",
+      "p_p_col_count":"1",
+      "saveLastPath":"0",
+      "_58_struts_action":"/login/view",
+      "_58_cmd":"update"
+    }
+    data: {
+      "_58_redirect":"",
+      "_58_login":"test01",
+      "_58_password":"1111"
+    }
+
+Notice:
+  dec: 通知/消息推送
+  report_deviceid: #上报device id及通知设置等信息
+    name: 上报device id及通知设置等信息
+    method: post
+    url: /hrloo.php
+    header: {
+              'User-Agent': 'OkHttp 4.9.1/HRLOO/2-2.8.5/WIFI/Xiaomi Redmi 8A',
+              'Content-Type': 'application/x-www-form-urlencoded'
+            }
+    # 英文的半角符号
+    data: {
+
+            'uid':'4113820',
+            'device_id':'13eef3bfa53445de902f30012de1cbbd',
+            'system_notice':'1',
+            'os_type':'Android',
+            'manufacturer':'Xiaomi'
+
+        }
+
+    query_string: {
+
+                    'a':'report_device_id',
+                    'c':'uc',
+                    'm':'app'
+
+                  }
+
+

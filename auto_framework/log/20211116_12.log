@@ -1,0 +1,158 @@
+2021-11-16 12:44:57,504 - api_sanmao.py - INFO - 开始登录
+2021-11-16 12:44:57,504 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-16 12:44:57,504 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1111046703}
+2021-11-16 12:45:07,822 - apibase.py - ERROR - POST-接口请求超时：HTTPSConnectionPool(host='passport.hrloo.com', port=443): Read timed out. (read timeout=10)
+2021-11-16 12:45:30,979 - api_sanmao.py - INFO - 开始登录
+2021-11-16 12:45:30,979 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-16 12:45:30,979 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1111046703}
+2021-11-16 12:45:41,350 - apibase.py - ERROR - POST-接口请求超时：HTTPSConnectionPool(host='passport.hrloo.com', port=443): Read timed out. (read timeout=10)
+2021-11-16 12:46:31,826 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-16 12:46:31,827 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-16 12:46:42,140 - apibase.py - ERROR - POST-接口请求超时：HTTPSConnectionPool(host='passport.hrloo.com', port=443): Read timed out. (read timeout=10)
+2021-11-16 12:46:42,305 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-16 12:46:42,305 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300423}
+2021-11-16 12:46:52,339 - apibase.py - ERROR - POST-接口请求超时：HTTPSConnectionPool(host='passport.hrloo.com', port=443): Read timed out. (read timeout=10)
+2021-11-16 12:52:53,913 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-16 12:52:53,913 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-16 12:52:54,242 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:52:54,243 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=user&a=left_maodou
+2021-11-16 12:52:54,244 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:52:54,321 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.077016
+2021-11-16 12:52:54,321 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:52:54,326 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=uc&a=homePage
+2021-11-16 12:52:54,326 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:52:59,835 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：5.506985
+2021-11-16 12:52:59,836 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:52:59,850 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=uc&a=recommendUsers
+2021-11-16 12:52:59,850 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:52:59,860 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.009154
+2021-11-16 12:52:59,860 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:52:59,863 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=setBlackList
+2021-11-16 12:52:59,863 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:52:59,886 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.020985
+2021-11-16 12:52:59,886 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:52:59,889 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-16 12:52:59,889 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300423}
+2021-11-16 12:52:59,958 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:52:59,959 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=setBlackList
+2021-11-16 12:52:59,959 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:00,030 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.070435
+2021-11-16 12:53:00,030 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:00,031 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=setBlackList
+2021-11-16 12:53:00,031 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:00,048 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.015851
+2021-11-16 12:53:00,049 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:00,052 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=getBlackList
+2021-11-16 12:53:00,052 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:00,075 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.022161
+2021-11-16 12:53:00,076 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:00,079 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=msgCenterList
+2021-11-16 12:53:00,079 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:00,361 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.279868
+2021-11-16 12:53:00,361 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:00,365 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=startChat
+2021-11-16 12:53:00,365 - apibase.py - DEBUG - POST-接口请求体：{'gid': '146', 'to_uid': '3899156', 'max_id': ' 0'}
+2021-11-16 12:53:00,381 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:00,385 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=chatList
+2021-11-16 12:53:00,385 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:00,403 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.015679
+2021-11-16 12:53:00,403 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:00,407 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=centerDetails
+2021-11-16 12:53:00,407 - apibase.py - DEBUG - POST-接口请求体：{'type': '1', 'page': '1'}
+2021-11-16 12:53:00,425 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:00,428 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=centerDetails
+2021-11-16 12:53:00,428 - apibase.py - DEBUG - POST-接口请求体：{'type': '2', 'page': '1'}
+2021-11-16 12:53:00,452 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:00,456 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=centerDetails
+2021-11-16 12:53:00,456 - apibase.py - DEBUG - POST-接口请求体：{'type': '3', 'page': '1'}
+2021-11-16 12:53:00,474 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:00,477 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=getMsgUnread
+2021-11-16 12:53:00,477 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:00,504 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.025427
+2021-11-16 12:53:00,504 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:00,507 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-16 12:53:00,508 - apibase.py - DEBUG - POST-接口请求体：{'file': 'd76c1d9ad54f43929fd96a58058c18d1!400x400.png'}
+2021-11-16 12:53:00,554 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:00,557 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=groupSendList
+2021-11-16 12:53:00,557 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:00,592 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.033392
+2021-11-16 12:53:00,592 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:00,596 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=setGroupSend
+2021-11-16 12:53:00,596 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:00,622 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.024107
+2021-11-16 12:53:00,622 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:00,625 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=uc&a=admire
+2021-11-16 12:53:00,625 - apibase.py - DEBUG - POST-接口请求体：{'touid': '你好3108768', 'fee': '10', 'moduleid': '9', 'itemid': '3108768'}
+2021-11-16 12:53:00,657 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:39,631 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-16 12:53:39,631 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-16 12:53:39,996 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:39,998 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=user&a=left_maodou
+2021-11-16 12:53:39,998 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,041 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.041464
+2021-11-16 12:53:40,041 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,047 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=uc&a=homePage
+2021-11-16 12:53:40,048 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,405 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.355883
+2021-11-16 12:53:40,405 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,437 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=uc&a=recommendUsers
+2021-11-16 12:53:40,438 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,447 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.007948
+2021-11-16 12:53:40,447 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,451 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=setBlackList
+2021-11-16 12:53:40,451 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,460 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.007879
+2021-11-16 12:53:40,460 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,464 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-16 12:53:40,464 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300423}
+2021-11-16 12:53:40,494 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:40,494 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=setBlackList
+2021-11-16 12:53:40,494 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,516 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.020507
+2021-11-16 12:53:40,517 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,520 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=setBlackList
+2021-11-16 12:53:40,520 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,545 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.018902
+2021-11-16 12:53:40,546 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,562 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=getBlackList
+2021-11-16 12:53:40,562 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,577 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.014106
+2021-11-16 12:53:40,577 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,582 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=msgCenterList
+2021-11-16 12:53:40,582 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,693 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.109756
+2021-11-16 12:53:40,693 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,712 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=startChat
+2021-11-16 12:53:40,712 - apibase.py - DEBUG - POST-接口请求体：{'gid': '146', 'to_uid': '3899156', 'max_id': ' 0'}
+2021-11-16 12:53:40,729 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:40,733 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=chatList
+2021-11-16 12:53:40,733 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,749 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.014445
+2021-11-16 12:53:40,749 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,754 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=centerDetails
+2021-11-16 12:53:40,754 - apibase.py - DEBUG - POST-接口请求体：{'type': '1', 'page': '1'}
+2021-11-16 12:53:40,770 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:40,774 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=centerDetails
+2021-11-16 12:53:40,774 - apibase.py - DEBUG - POST-接口请求体：{'type': '2', 'page': '1'}
+2021-11-16 12:53:40,790 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:40,793 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=centerDetails
+2021-11-16 12:53:40,794 - apibase.py - DEBUG - POST-接口请求体：{'type': '3', 'page': '1'}
+2021-11-16 12:53:40,810 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:40,814 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=getMsgUnread
+2021-11-16 12:53:40,814 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,832 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.01671
+2021-11-16 12:53:40,833 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,836 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-16 12:53:40,836 - apibase.py - DEBUG - POST-接口请求体：{'file': 'd76c1d9ad54f43929fd96a58058c18d1!400x400.png'}
+2021-11-16 12:53:40,891 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-16 12:53:40,895 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=groupSendList
+2021-11-16 12:53:40,896 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,918 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.020836
+2021-11-16 12:53:40,918 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,922 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=setGroupSend
+2021-11-16 12:53:40,922 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-16 12:53:40,952 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.027896
+2021-11-16 12:53:40,952 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-16 12:53:40,959 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=uc&a=admire
+2021-11-16 12:53:40,959 - apibase.py - DEBUG - POST-接口请求体：{'touid': '你好3108768', 'fee': '10', 'moduleid': '9', 'itemid': '3108768'}
+2021-11-16 12:53:40,979 - apibase.py - DEBUG - POST-接口的响应码：200

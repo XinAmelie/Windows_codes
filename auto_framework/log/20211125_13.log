@@ -1,0 +1,12 @@
+2021-11-25 13:02:39,060 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-25 13:02:40,169 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-25 13:02:40,248 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-25 13:02:40,248 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-25 13:02:40,256 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-25 13:02:40,760 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-25 13:02:40,760 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-25 13:02:40,768 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-25 13:02:40,822 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-25 13:02:40,894 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-25 13:02:40,894 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-25 13:02:51,162 - webbase.py - ERROR - click ['xpath', ".//div[@class='fn-vip-link-nologin']/preceding-sibling::div[1]"] 失败

@@ -1,0 +1,268 @@
+2021-11-15 10:10:17,355 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:10:17,355 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:10:17,363 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:10:17,850 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:10:17,850 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:10:17,859 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:10:17,907 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:10:17,972 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:10:18,850 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:10:22,264 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-15 10:10:22,264 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-15 10:10:22,264 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-15 10:10:33,741 - webbase.py - ERROR - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[text()='中级经济师（工商管理"] 失败
+2021-11-15 10:14:57,272 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:14:57,272 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:14:57,281 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:14:57,875 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:14:57,875 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:14:57,883 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:14:57,935 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:14:57,992 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:14:58,694 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:15:02,111 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:15:02,111 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:15:02,111 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:15:02,313 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='薪酬体系设计与薪酬变革全能研修班']"] 成功
+2021-11-15 10:15:11,016 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 不存在
+2021-11-15 10:15:14,129 - webbase.py - DEBUG - click ['xpath', ".//div[@class='product-btns']/a[@class='ui-btn1 ui-buy-btn fn-buy-btn' and @title='立即购买' and text()='立即购买']"] 成功
+2021-11-15 10:15:17,199 - webbase.py - DEBUG - click ['xpath', ".//a[contains(@title,'立即支付')]"] 成功
+2021-11-15 10:21:03,283 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:21:03,283 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:21:03,291 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:21:03,770 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:21:03,771 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:21:03,780 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:21:03,821 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:21:03,886 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:21:04,732 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:21:08,164 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:21:08,164 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:21:08,164 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:21:18,428 - webbase.py - ERROR - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[text()='中级经济师（工商管理"] 失败
+2021-11-15 10:21:38,777 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:21:38,778 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:21:38,786 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:21:39,274 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:21:39,274 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:21:39,283 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:21:39,332 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:21:39,384 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:21:40,084 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:22:52,674 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:22:52,674 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:22:52,682 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:22:53,179 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:22:53,179 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:22:53,187 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:22:53,239 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:22:53,295 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:22:54,018 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:22:59,429 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:22:59,429 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:22:59,429 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:23:09,684 - webbase.py - ERROR - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[text()='中级经济师（工商管理"] 失败
+2021-11-15 10:24:04,039 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:24:04,039 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:24:04,048 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:24:04,536 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:24:04,537 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:24:04,545 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:24:04,599 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:24:04,653 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:24:05,394 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:24:08,805 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:24:08,805 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:24:08,805 - guibase.py - DEBUG - 鼠标偏移1244,523
+2021-11-15 10:24:21,066 - webbase.py - ERROR - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[text()='中级经济师（工商管理"] 失败
+2021-11-15 10:25:33,439 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:25:33,439 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:25:33,447 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:25:33,937 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:25:33,937 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:25:33,945 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:25:33,999 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:25:34,052 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:25:34,816 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:25:38,227 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:25:38,227 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:25:38,227 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:25:40,433 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']"] 成功
+2021-11-15 10:25:41,802 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 存在
+2021-11-15 10:25:43,816 - affard_ordeid.py - DEBUG -  我在这里发现了['xpath', ".//div[@class='product-btns']/a[text()='立即学习']"],我要退出
+2021-11-15 10:26:03,676 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:26:03,677 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:26:03,685 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:26:04,276 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:26:04,276 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:26:04,284 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:26:04,337 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:26:04,389 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:26:05,595 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:26:09,004 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:26:09,004 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:26:09,004 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:26:11,204 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']"] 成功
+2021-11-15 10:26:11,984 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 存在
+2021-11-15 10:26:13,997 - affard_ordeid.py - DEBUG -  我在这里发现了['xpath', ".//div[@class='product-btns']/a[text()='立即学习']"],我要退出
+2021-11-15 10:27:07,200 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:27:07,200 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:27:07,207 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:27:07,797 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:27:07,798 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:27:07,805 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:27:07,858 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:27:07,916 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:27:08,604 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:27:12,013 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:27:12,013 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:27:12,013 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:27:14,211 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='薪酬体系设计与薪酬变革全能研修班']"] 成功
+2021-11-15 10:27:21,924 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 不存在
+2021-11-15 10:27:25,022 - webbase.py - DEBUG - click ['xpath', ".//div[@class='product-btns']/a[@class='ui-btn1 ui-buy-btn fn-buy-btn' and @title='立即购买' and text()='立即购买']"] 成功
+2021-11-15 10:27:28,093 - webbase.py - DEBUG - click ['xpath', ".//a[contains(@title,'立即支付')]"] 成功
+2021-11-15 10:28:37,374 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:28:37,374 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:28:37,383 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:28:37,871 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 10:28:37,871 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:28:37,880 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:28:37,930 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:28:37,986 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:28:38,940 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:28:42,353 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:28:42,353 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:28:42,353 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:28:44,555 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']"] 成功
+2021-11-15 10:28:45,227 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 存在
+2021-11-15 10:28:47,243 - affard_ordeid.py - DEBUG -  我在这里发现了['xpath', ".//div[@class='product-btns']/a[text()='立即学习']"],我要退出
+2021-11-15 10:31:31,200 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:31:31,200 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:31:31,208 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:31:31,692 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 10:31:31,692 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:31:31,701 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:31:31,752 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:31:31,808 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:31:32,709 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:31:36,122 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:31:36,122 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:31:36,122 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:31:38,338 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']"] 成功
+2021-11-15 10:31:44,537 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 不存在
+2021-11-15 10:31:47,624 - webbase.py - DEBUG - click ['xpath', ".//div[@class='product-btns']/a[@class='ui-btn1 ui-buy-btn fn-buy-btn' and @title='立即购买' and text()='立即购买']"] 成功
+2021-11-15 10:31:50,700 - webbase.py - DEBUG - click ['xpath', ".//a[contains(@title,'立即支付')]"] 成功
+2021-11-15 10:36:37,051 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:36:37,051 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:36:37,062 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:36:37,546 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 10:36:37,546 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:36:37,554 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:36:37,604 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:36:37,659 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:36:38,417 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:36:41,828 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:36:41,828 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:36:41,828 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:36:44,054 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='薪酬体系设计与薪酬变革全能研修班']"] 成功
+2021-11-15 10:36:50,235 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 不存在
+2021-11-15 10:36:53,319 - webbase.py - DEBUG - click ['xpath', ".//div[@class='product-btns']/a[@class='ui-btn1 ui-buy-btn fn-buy-btn' and @title='立即购买' and text()='立即购买']"] 成功
+2021-11-15 10:36:56,382 - webbase.py - DEBUG - click ['xpath', ".//a[contains(@title,'立即支付')]"] 成功
+2021-11-15 10:39:17,349 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:39:17,349 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:39:17,358 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:39:17,843 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 10:39:17,843 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:39:17,852 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:39:17,901 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:39:17,957 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:39:18,846 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:39:22,258 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:39:22,258 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:39:22,258 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:39:34,533 - webbase.py - ERROR - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[text()='中级经济师（工商管理"] 失败
+2021-11-15 10:40:24,023 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:40:24,023 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:40:24,031 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:40:24,622 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 10:40:24,623 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:40:24,631 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:40:24,680 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:40:24,738 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:40:25,499 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:40:28,910 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:40:28,910 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:40:28,910 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:40:41,219 - webbase.py - ERROR - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[text()='中级经济师（工商管理"] 失败
+2021-11-15 10:43:07,430 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:43:07,430 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:43:07,437 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:43:07,939 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 10:43:07,939 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:43:07,947 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:43:08,000 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:43:08,055 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:43:08,810 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:43:12,221 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:43:12,221 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:43:12,221 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:43:14,431 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']"] 成功
+2021-11-15 10:43:20,588 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 不存在
+2021-11-15 10:43:23,679 - webbase.py - DEBUG - click ['xpath', ".//div[@class='product-btns']/a[@class='ui-btn1 ui-buy-btn fn-buy-btn' and @title='立即购买' and text()='立即购买']"] 成功
+2021-11-15 10:43:26,742 - webbase.py - DEBUG - click ['xpath', ".//a[contains(@title,'立即支付')]"] 成功
+2021-11-15 10:45:19,588 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:45:19,588 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:45:19,597 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:45:20,085 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 10:45:20,085 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:45:20,093 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:45:20,149 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:45:20,205 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:45:20,922 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-15 10:45:24,334 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:45:24,334 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:45:24,334 - guibase.py - DEBUG - 鼠标偏移837,591
+2021-11-15 10:45:26,538 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='薪酬体系设计与薪酬变革全能研修班']"] 成功
+2021-11-15 10:45:34,791 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 不存在
+2021-11-15 10:45:37,899 - webbase.py - DEBUG - click ['xpath', ".//div[@class='product-btns']/a[@class='ui-btn1 ui-buy-btn fn-buy-btn' and @title='立即购买' and text()='立即购买']"] 成功
+2021-11-15 10:45:40,964 - webbase.py - DEBUG - click ['xpath', ".//a[contains(@title,'立即支付')]"] 成功
+2021-11-15 10:52:29,085 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:52:29,085 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:52:29,093 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:52:29,683 - webbase.py - DEBUG - send keys 1907753493 成功
+2021-11-15 10:52:29,684 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:52:29,693 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:52:29,744 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:52:29,804 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:56:26,908 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:56:26,908 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:56:26,916 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:56:27,423 - webbase.py - DEBUG - send keys 1907753493 成功
+2021-11-15 10:56:27,423 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:56:27,432 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:56:27,492 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:56:27,555 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:57:00,530 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:57:00,530 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:57:00,538 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:57:01,038 - webbase.py - DEBUG - send keys 1907753493 成功
+2021-11-15 10:57:01,038 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:57:01,046 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:57:01,104 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:57:01,183 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:58:17,277 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:58:17,278 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:58:17,286 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:58:17,778 - webbase.py - DEBUG - send keys 1907753493 成功
+2021-11-15 10:58:17,778 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:58:17,787 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:58:17,845 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:58:17,904 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 10:59:21,421 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 10:59:21,421 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 10:59:21,430 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 10:59:21,934 - webbase.py - DEBUG - send keys 1907753493 成功
+2021-11-15 10:59:21,934 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 10:59:21,944 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 10:59:22,003 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 10:59:22,061 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功

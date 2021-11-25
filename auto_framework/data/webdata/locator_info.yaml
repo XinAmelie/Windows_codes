@@ -1,0 +1,116 @@
+login: #登录元素信息
+  username: ["name","_58_login"]
+  password: ["name","_58_password"]
+  loginbtn: ["xpath",".//input[@type='submit' and @value='登录']"]
+  welcome: ["xpath",".//div[@id='banner']/div/h2/span"]
+  error1: ["xpath",".//div[@class='portlet-content-container']/div/form/span"]
+  quitbtn: ["xpath",".//div[@class='lfr-dock-list-container']/ul/li/a"]
+
+article: #稿件管理
+  add_article_btn: ["xpath",".//input[@type='button' and @value='增加稿件']"]
+  title: ["id","_15_title"]
+  content: ["id","textArea"]
+  add_iframe: ["id","_15_editor"]
+  save: ["xpath",".//input[@type='submit' and @value='保存并返回']"]
+  first: ["xpath",".//div[@class='results-grid']/table/tbody/tr[2]/td[3]/a"]
+  state: ["xpath",".//div[@class='results-grid']/table/tbody/tr[2]/td[5]/a"]
+  select: ["id","toggle_id_journal_article_searchkeywords"]
+  select_btn: ["xpath",".//input[@type='submit' and @value='查询稿件']"]
+  first_article: ["xpath",".//div[@class='results-grid']/table/tbody/tr[2]/td[3]/a"]
+  approve: ["xpath",".//input[@type='button' and @value='批准']"]
+  Check: ["xpath",".//div[@class='results-grid']/table/tbody/tr[2]/td[1]/input"]
+  expired_btn: ["xpath",".//input[@type='button' and @value='到期']"]
+  delete_btn: ["xpath",".//input[@type='button' and @value='删除']"]
+
+file: #文件上传下载
+  file_page: ["xpath",".//span[text()='文档上传下载']"]
+  add_btn: ["xpath",".//input[@value='新建文件夹']"]
+  folder_name: ["id","_20_name"]
+  folder_desc: ["id","_20_description"]
+  save_folder: ["xpath",".//input[@type='submit' and @value='保存并返回']"]
+  first_name: ["xpath",".//ul[@class='lfr-component']/li[2]/a"]
+  first_del: ["xpath",".//ul[@class='lfr-component']/li[2]/nobr/a[2]"]
+  msg_success: ["xpath",".//div[@class='portlet-content']/div/div/div"]
+  upload_btn: ["xpath",".//input[@type='button' and @value='上传文档']"]
+  iframe: ["id","dlFileEntryUploadProgress-iframe"]
+  input_file: ["id","_20_file"]
+  rename_file: ["id","_20_title"]
+  desc_file: ["id","_20_description"]
+  sub_file: ["xpath",".//input[@type='submit' and @value='上传文档']"]
+  first_file: ["xpath",".//div[@class='results-grid']/table/tbody/tr[2]/td/a"]
+  first_size: ["xpath",".//div[@class='results-grid']/table/tbody/tr[2]/td[2]/a"]
+  select_file: ["id","_20_keywords2"]
+  select_btn: ["xpath",".//input[@type='submit' and @value='查询文档']"]
+  select_first: ["xpath",".//div[@class='results-grid']/table/tbody/tr[2]/td[3]/a"]
+  delect_file: ["xpath",".//div[@class='results-grid']/table/tbody/tr[2]/td[3]/nobr/a[2]"]
+
+sanmao:
+  # 谷歌
+  pass_login: ["xpath",".//div[@class ='new-login-tab']/span[2]"]
+  username: ["xpath",".//p[@class='ps-username fn-login-input-item']/input[1]"]
+  password: ["id","j_password"]
+  login_button: ["id","j_loginbtn"]
+
+  # 火狐
+  pass_loginfox: ["xpath",".//div[@class='new-login']/div[1]/div[1]/span[2]"]
+
+  is_login: ["xpath",".//div[text()='创作中心']"]
+  vip_hrspl: ["xpath",".//div[@class='fn-vip-link-nologin']/preceding-sibling::div[1]"]
+  click_close: ["xpath",".//div[@class='popup-layout']/a[1]"]
+  enter_vip: ["xpath",".//a[@class='vip-ct-item item1 fn-common-href']"]
+  click_book: ["xpath",".//div[@class='fr rightBlock']"]
+  click_cour1: ["xpath",".//div[@class='item-wrap clearfix']/div[1]/p[1]/span[1]"]
+  click_cour2: ["xpath",".//div[@class='item-wrap clearfix']/div[2]/p[1]/span[1]"]
+  click_jindan: ["id","egg-animate1"]
+  za_jindan: ["xpath",".//div[@class='smashing-btns']/div[3]"]
+  is_get: ["xpath",".//div[@class='popup-layout _transform _show']/section[1]/div[1]/p[1]"]
+  but_kecheng: ["xpath",".//div[@class='nsh-w-left']/a[6]"]
+  course_1: ["xpath",".//div[@class='hr-course-item-global-style swiper-slide']/a[text()='中级经济师（工商管理"]
+  course_2: ["xpath",".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='薪酬体系设计与薪酬变革全能研修班']"]
+  course_3: ["xpath",".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']"]
+  affard: ["xpath",".//div[@class='product-btns']/a[@class='ui-btn1 ui-buy-btn fn-buy-btn' and @title='立即购买' and text()='立即购买']"]
+  ins_affard: ["xpath",".//a[contains(@title,'立即支付')]"]
+  ins_study: ["xpath",".//div[@class='product-btns']/a[text()='立即学习']"]
+  is_affard: ["xpath",".//div[@class='overly '] /div[1]/h1[1]"]
+
+Sanmao_project:
+  dec: 三茅网
+  Summarize: # 总结
+    figure_icon: ["xpath",".//div[@class='aimg']/a[1]/following-sibling::a[1]"]
+    tag_sum: ["xpath",".//ul[@class = 'hr-header-tab box']/li[4]"]
+    write_sum: ["xpath",".//div[@class='popupwrap dn']/preceding-sibling::p[1]/a[1]"]
+    write_content_title: ["xpath",".//div[@class='tit-input tpl1-input']/input[@id='subject']"]
+    publish: ["xpath",".//div[@class='r']/a[text()='发布']"]
+    tag1: ["xpath",".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[1]"]
+    tag2: ["xpath",".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[5]"]
+    tag3: ["xpath",".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[7]"]
+    input_text: ["xpath",".//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']"]
+    paste: ["xpath",".//li/span[text()='贴上']"]
+    submit: ["id","saveBtn"]
+    assert_ok: ["xpath",".//div[@class='tip']/h1"]
+
+  Chat: # 聊天
+    msg_center: ["xpath",".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"]  # 消息中心
+    user1: ["xpath",".//div[@class='tit']/a[text()='Benjamin02099']"] # 点击用户一
+    user2: ["xpath",".//div[@class='tit']/a[text()='阿特洛波斯13405']"]
+#    user3: ["xpath",".//div[@class='tit']/a[text()='清爽蓝天']"]
+    user4: ["xpath",".//div[@class='tit']/a[text()='176毛毛虫']"]
+    input_text: ["xpath",".//div[@class='chat-w-bottom']/textarea[1]"] # 聊天输入框
+    send_msg: ["xpath",".//div[@class='chat-wb-send fn-chat-wb-send active']/span[1]"] # 发送消息
+    # 火狐的发送
+    send_msg1: ["xpath",".//span[text()='发送']"]
+    select_img: ["xpath",".//div[@class='chat-w-bottom']/div[1]/img[1]"] # 打开图片选择框
+    # 火狐
+    user_xubo: ["xpath",".//div[@class='tit']/a[text()='徐渤BOBO']"]
+    # 关闭
+    click_out: ["xpath",".//a[@class='global-chat-close fn-global-chat-close']"]
+    assert_chat: ["xpath",".//div[@class='fn-vip-link-islogin']"]
+
+
+
+
+
+
+
+
+

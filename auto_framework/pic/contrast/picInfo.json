@@ -1,0 +1,20 @@
+{
+
+  "qq": {
+
+      "qq_icon": "qq_icon.png",
+      "qq_login": "qq_login.png",
+      "qq_password": "qq_password.png",
+      "qq_username": "qq_username.png",
+      "qq_loginok":"login_ok.png",
+      "qq_menus":"menus.png",
+      "qq_loginout":"loginout.png"
+
+          },
+    "brower": {
+
+        "user_brower":"brower.png"
+
+    }
+
+}

@@ -1,0 +1,86 @@
+2021-11-17 13:34:44,808 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-17 13:34:44,808 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-17 13:34:44,816 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-17 13:34:45,302 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-17 13:34:45,302 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-17 13:34:45,311 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-17 13:34:45,360 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-17 13:34:45,446 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-17 13:34:46,414 - webbase.py - DEBUG - click ['xpath', ".//div[@class='aimg']/a[1]/following-sibling::a[1]"] 成功
+2021-11-17 13:34:47,055 - guibase.py - DEBUG - 查找对象show存在
+2021-11-17 13:34:47,055 - guibase.py - DEBUG - 查找对象show存在
+2021-11-17 13:34:47,055 - guibase.py - DEBUG - 查找对象show存在
+2021-11-17 13:34:47,821 - guibase.py - DEBUG - 移动到图片 show 位置True, 点击:Point(x=646, y=310) 成功
+2021-11-17 13:34:47,821 - guibase.py - DEBUG - 移动到图片 show 位置True, 点击:Point(x=646, y=310) 成功
+2021-11-17 13:34:47,821 - guibase.py - DEBUG - 移动到图片 show 位置True, 点击:Point(x=646, y=310) 成功
+2021-11-17 13:34:47,910 - webbase.py - DEBUG - click ['xpath', ".//ul[@class = 'hr-header-tab box']/li[4]"] 成功
+2021-11-17 13:34:50,965 - webbase.py - DEBUG - click ['xpath', ".//div[@class='popupwrap dn']/preceding-sibling::p[1]/a[1]"] 成功
+2021-11-17 13:34:50,965 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='tit-input tpl1-input']/input[@id='subject']
+2021-11-17 13:34:51,660 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='tit-input tpl1-input']/input[@id='subject']")成功
+2021-11-17 13:34:51,713 - webbase.py - DEBUG - send keys 你我皆是羔羊却没有草原 成功
+2021-11-17 13:34:57,020 - guibase.py - DEBUG - 查找对象write_content存在
+2021-11-17 13:34:57,020 - guibase.py - DEBUG - 查找对象write_content存在
+2021-11-17 13:34:57,020 - guibase.py - DEBUG - 查找对象write_content存在
+2021-11-17 13:34:57,787 - guibase.py - DEBUG - 移动到图片 write_content 位置True, 点击:Point(x=648, y=357) 成功
+2021-11-17 13:34:57,787 - guibase.py - DEBUG - 移动到图片 write_content 位置True, 点击:Point(x=648, y=357) 成功
+2021-11-17 13:34:57,787 - guibase.py - DEBUG - 移动到图片 write_content 位置True, 点击:Point(x=648, y=357) 成功
+2021-11-17 13:35:01,802 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-17 13:35:01,802 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-17 13:35:01,802 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-17 13:35:01,923 - webbase.py - DEBUG - click ['xpath', ".//div[@class='r']/a[text()='发布']"] 成功
+2021-11-17 13:35:04,972 - webbase.py - DEBUG - click ['xpath', ".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[5]"] 成功
+2021-11-17 13:35:08,023 - webbase.py - DEBUG - click ['xpath', ".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[1]"] 成功
+2021-11-17 13:35:11,063 - webbase.py - DEBUG - click ['xpath', ".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[5]"] 成功
+2021-11-17 13:35:14,063 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']
+2021-11-17 13:35:14,073 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']")成功
+2021-11-17 13:35:14,118 - webbase.py - DEBUG - send keys 人力效率1 成功
+2021-11-17 13:35:14,168 - webbase.py - DEBUG - click ['xpath', ".//li/span[text()='贴上']"] 成功
+2021-11-17 13:35:14,168 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']
+2021-11-17 13:35:14,175 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']")成功
+2021-11-17 13:35:14,213 - webbase.py - DEBUG - send keys 人力效率2 成功
+2021-11-17 13:35:14,246 - webbase.py - DEBUG - click ['xpath', ".//li/span[text()='贴上']"] 成功
+2021-11-17 13:35:14,303 - webbase.py - DEBUG - click ['id', 'saveBtn'] 成功
+2021-11-17 13:35:17,303 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='tip']/h1
+2021-11-17 13:41:43,422 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-17 13:41:43,422 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-17 13:41:43,431 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-17 13:41:44,025 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-17 13:41:44,025 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-17 13:41:44,033 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-17 13:41:44,083 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-17 13:41:44,176 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-17 13:41:45,033 - webbase.py - DEBUG - click ['xpath', ".//div[@class='aimg']/a[1]/following-sibling::a[1]"] 成功
+2021-11-17 13:41:45,523 - guibase.py - DEBUG - 查找对象show存在
+2021-11-17 13:41:45,523 - guibase.py - DEBUG - 查找对象show存在
+2021-11-17 13:41:45,523 - guibase.py - DEBUG - 查找对象show存在
+2021-11-17 13:41:46,287 - guibase.py - DEBUG - 移动到图片 show 位置True, 点击:Point(x=646, y=310) 成功
+2021-11-17 13:41:46,287 - guibase.py - DEBUG - 移动到图片 show 位置True, 点击:Point(x=646, y=310) 成功
+2021-11-17 13:41:46,287 - guibase.py - DEBUG - 移动到图片 show 位置True, 点击:Point(x=646, y=310) 成功
+2021-11-17 13:41:46,362 - webbase.py - DEBUG - click ['xpath', ".//ul[@class = 'hr-header-tab box']/li[4]"] 成功
+2021-11-17 13:41:49,422 - webbase.py - DEBUG - click ['xpath', ".//div[@class='popupwrap dn']/preceding-sibling::p[1]/a[1]"] 成功
+2021-11-17 13:41:49,422 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='tit-input tpl1-input']/input[@id='subject']
+2021-11-17 13:41:49,968 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='tit-input tpl1-input']/input[@id='subject']")成功
+2021-11-17 13:41:50,016 - webbase.py - DEBUG - send keys 你我皆是羔羊却没有草原 成功
+2021-11-17 13:41:55,315 - guibase.py - DEBUG - 查找对象write_content存在
+2021-11-17 13:41:55,315 - guibase.py - DEBUG - 查找对象write_content存在
+2021-11-17 13:41:55,315 - guibase.py - DEBUG - 查找对象write_content存在
+2021-11-17 13:41:56,092 - guibase.py - DEBUG - 移动到图片 write_content 位置True, 点击:Point(x=648, y=357) 成功
+2021-11-17 13:41:56,092 - guibase.py - DEBUG - 移动到图片 write_content 位置True, 点击:Point(x=648, y=357) 成功
+2021-11-17 13:41:56,092 - guibase.py - DEBUG - 移动到图片 write_content 位置True, 点击:Point(x=648, y=357) 成功
+2021-11-17 13:42:00,107 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-17 13:42:00,107 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-17 13:42:00,107 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-17 13:42:00,260 - webbase.py - DEBUG - click ['xpath', ".//div[@class='r']/a[text()='发布']"] 成功
+2021-11-17 13:42:03,311 - webbase.py - DEBUG - click ['xpath', ".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[5]"] 成功
+2021-11-17 13:42:03,340 - webbase.py - DEBUG - click ['xpath', ".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[5]"] 成功
+2021-11-17 13:42:06,393 - webbase.py - DEBUG - click ['xpath', ".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[7]"] 成功
+2021-11-17 13:42:12,394 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']
+2021-11-17 13:42:12,403 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']")成功
+2021-11-17 13:42:12,444 - webbase.py - DEBUG - send keys 人力效率1 成功
+2021-11-17 13:42:12,493 - webbase.py - DEBUG - click ['xpath', ".//li/span[text()='贴上']"] 成功
+2021-11-17 13:42:12,494 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']
+2021-11-17 13:42:12,504 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']")成功
+2021-11-17 13:42:12,538 - webbase.py - DEBUG - send keys 人力效率2 成功
+2021-11-17 13:42:12,571 - webbase.py - DEBUG - click ['xpath', ".//li/span[text()='贴上']"] 成功
+2021-11-17 13:42:12,631 - webbase.py - DEBUG - click ['id', 'saveBtn'] 成功
+2021-11-17 13:42:15,632 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='tip']/h1

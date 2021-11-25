@@ -1,0 +1,96 @@
+DBinfo:
+  host: '10.1.10.120'
+  user: 'admin'
+  passwd: '111111'
+  port: 3306
+  database: hruc
+
+DBinfo1:
+  host: '10.1.10.120'
+  user: 'admin'
+  passwd: '111111'
+  port: 3306
+  database: hrspl
+
+DBinfo2:
+  host: '10.1.10.120'
+  user: 'admin'
+  passwd: '111111'
+  port: 3306
+  database: 'hrzl'
+
+
+WebCaseData: #测试用例数据-web自动化
+
+  login: #登录测试用例数据
+    - username: 'test01'
+      password: '1111'
+      flag: '1'
+    - username: 'test01a'
+      password: '1111'
+      flag: '2'
+    - username: 'test01'
+      password: '1111a'
+      flag: '3'
+
+  add_article: #新增稿件测试用例数据
+    - title: '新增:这是标题'
+      content: '新增:这是内容'
+
+  dele_article: #删除稿件测试用例数据
+    - title: '删除:这是标题'
+      content: '删除:这是内容'
+
+  select_article: #查询稿件测试用例数据
+    - title: '新增前置：这是标题'
+      content: '新增前置:这是内容'
+
+  edit_article: #编辑稿件测试用例数据
+    - title: '修改：这是标题'
+      content: '修改:这是内容'
+
+  folder_add_del: #文件夹新增、删除
+    - name: '文件夹名称'
+      desc: '文件夹描述'
+
+  upload_file: #文件上传
+    - rename: 'rename.txt'
+      desc: '这是描述信息'
+
+ApiCaseData: #测试用例数据-api自动化
+  login: #登录测试用例数据
+    - username: 'test01'
+      password: '1111'
+      title: '测试比对样品 - 稿件管理'
+    - username: 'test01a'
+      password: '1111'
+      title: '测试比对样品 - 登录'
+    - username: 'test01'
+      password: '1111a'
+      title: '测试比对样品 - 登录'
+
+  add_article: #新增稿件测试用例数据
+    - title: '新增:这是标题'
+      content: '新增:这是内容'
+
+  dele_article: #删除稿件测试用例数据
+    - title: '删除:这是标题'
+      content: '删除:这是内容'
+
+  select_article: #查询稿件测试用例数据
+    - title: '新增前置：这是标题'
+      content: '新增前置:这是内容'
+
+  edit_article: #编辑稿件测试用例数据
+    - title: '修改：这是标题'
+      content: '修改:这是内容'
+
+  folder_add_del: #文件夹新增、删除
+    - name: '文件夹名称'
+      desc: '文件夹描述'
+
+  upload_file: #文件上传
+    - rename: 'rename.txt'
+      desc: '这是描述信息'
+
+

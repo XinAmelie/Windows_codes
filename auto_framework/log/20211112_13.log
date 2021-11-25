@@ -1,0 +1,18 @@
+2021-11-12 13:31:38,802 - api_sanmao.py - INFO - 开始获取茅豆
+2021-11-12 13:31:38,823 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php
+2021-11-12 13:31:38,823 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-12 13:31:39,067 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.208591
+2021-11-12 13:31:39,067 - apibase.py - DEBUG - GET-接口的响应码：200
+2021-11-12 13:57:57,033 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 13:57:57,033 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 13:57:57,444 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 13:57:57,456 - apibase.py - INFO - POST-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=uc&a=admire
+2021-11-12 13:57:57,456 - apibase.py - DEBUG - POST-接口请求体：{'touid': '你好3108768', 'fee': '10', 'moduleid': '9', 'itemid': '3108768'}
+2021-11-12 13:57:57,565 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 13:58:13,799 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 13:58:13,799 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 13:58:14,207 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 13:58:14,209 - apibase.py - INFO - GET-接口请求地址：https://api.hrloo.com/hrloo.php?m=mapi2&c=msg&a=groupSendList
+2021-11-12 13:58:14,209 - apibase.py - DEBUG - GET-接口请求体：None
+2021-11-12 13:58:14,295 - apibase.py - DEBUG - GET-接口请求总时长，单位秒：0.084285
+2021-11-12 13:58:14,295 - apibase.py - DEBUG - GET-接口的响应码：200

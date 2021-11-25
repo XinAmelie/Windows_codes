@@ -1,0 +1,44 @@
+2021-11-18 17:11:30,461 - api_sanmao.py - INFO - 开始登录
+2021-11-18 17:11:30,461 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-18 17:11:30,461 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300724}
+2021-11-18 17:11:31,023 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-18 17:11:31,024 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":null,"data":{"setcookie_url":"https:\/\/passport.sanmao.com\/user\/sync_login?sync_already%5B0%5D=1&sync_auth=ByTP4vDraIDlj","need_code":0}}
+2021-11-18 17:11:31,025 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-18 17:11:31,025 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-18 17:11:31,026 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='F:\\python3.6.8\\projects\\auto_framework\\data_hrzl\\hr_pic\\d76c1d9ad54f43929fd96a58058c18d1!400x400.png'>, 'image/jpeg'))]>
+2021-11-18 17:11:31,898 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-18 17:11:31,898 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":"请求成功！","data":"https:\/\/files.hrloo.com\/www\/uploadfile\/2021\/1118\/c98a959de572b57a5396e817188cdaa7.jpg"}
+2021-11-18 17:12:39,540 - api_sanmao.py - INFO - 开始登录
+2021-11-18 17:12:39,540 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-18 17:12:39,540 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300724}
+2021-11-18 17:12:39,966 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-18 17:12:39,967 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":null,"data":{"setcookie_url":"https:\/\/passport.sanmao.com\/user\/sync_login?sync_already%5B0%5D=1&sync_auth=adT6yMPRxhLBP","need_code":0}}
+2021-11-18 17:12:39,967 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-18 17:12:39,968 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-18 17:12:39,968 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('d76c1d9ad54f43929fd96a58058c18d1!400x400.png', <_io.BufferedReader name='F:\\python3.6.8\\projects\\auto_framework\\data_hrzl\\hr_pic\\d76c1d9ad54f43929fd96a58058c18d1!400x400.png'>, 'image/jpeg'))]>
+2021-11-18 17:12:40,859 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-18 17:12:40,859 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":"请求成功！","data":"https:\/\/files.hrloo.com\/www\/uploadfile\/2021\/1118\/87b2e3fd84957bea0ba5d03c3f38a8e4.png"}
+2021-11-18 17:27:20,693 - api_sanmao.py - INFO - 开始登录
+2021-11-18 17:27:20,693 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-18 17:27:20,693 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300724}
+2021-11-18 17:27:21,096 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-18 17:27:21,096 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":null,"data":{"setcookie_url":"https:\/\/passport.sanmao.com\/user\/sync_login?sync_already%5B0%5D=1&sync_auth=RDTgLXRZMfqKy","need_code":0}}
+2021-11-18 17:27:21,097 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-18 17:27:21,098 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-18 17:27:21,098 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('d76c1d9ad54f43929fd96a58058c18d1!400x400.png', <_io.BufferedReader name='F:\\python3.6.8\\projects\\auto_framework\\data_hrzl\\hr_pic\\d76c1d9ad54f43929fd96a58058c18d1!400x400.png'>, 'image/jpeg'))]>
+2021-11-18 17:27:21,982 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-18 17:27:21,982 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":"请求成功！","data":"https:\/\/files.hrloo.com\/www\/uploadfile\/2021\/1118\/25634577512df3f2f1fb25457b00f506.png"}
+2021-11-18 17:27:53,537 - api_sanmao.py - INFO - 开始登录
+2021-11-18 17:27:53,537 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-18 17:27:53,537 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300724}
+2021-11-18 17:27:53,938 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-18 17:27:53,938 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":null,"data":{"setcookie_url":"https:\/\/passport.sanmao.com\/user\/sync_login?sync_already%5B0%5D=1&sync_auth=PeTnJ1q0JC776","need_code":0}}
+2021-11-18 17:27:53,940 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-18 17:27:53,940 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110302862}
+2021-11-18 17:27:54,042 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-18 17:27:54,042 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":null,"data":{"setcookie_url":"https:\/\/passport.sanmao.com\/user\/sync_login?sync_already%5B0%5D=1&sync_auth=65FYwMovwCQvr","need_code":0}}
+2021-11-18 17:27:54,042 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-18 17:27:54,043 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-18 17:27:54,043 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='F:\\python3.6.8\\projects\\auto_framework\\data_hrzl\\hr_zl\\试卷一主观题.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-18 17:27:55,804 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-18 17:27:55,804 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":"请求成功！","data":"602932"}

@@ -1,0 +1,288 @@
+Sanmao:
+  dec: 三茅登录接口
+  login_sanmao:
+    name: 登录接口
+    method: post
+    url: /user/login
+    header: {
+
+      'Content - Type': 'application / x - www - form - urlencoded;charset = UTF - 8',
+      'Cookie': 'fensiNumCount=NaN; _pk_id.1.0d74=492f837df3e4e33f.1629773165.; PHPSESSID=ckvc1rbdpl8199ehcnhf6rd750; Hm_lvt_9a72351d0103e8e2a62c3abba9bb349e=1630630123,1630637641,1630720887,1630721207; Hm_lpvt_9a72351d0103e8e2a62c3abba9bb349e=1630734345; _pk_ref.1.0d74=%5B%22SY%22%2C%22PCSYDHL%22%2C1630734345%2C%22%22%5D; _pk_ses.1.0d74=1'
+
+
+    }
+    body: {
+
+      'ajax': '1',
+      'hold': '1',
+      # 'password': 'hrloo.com',
+      # 'username': '1406607478'
+      'password': pwd,
+      'username': user,
+
+    }
+
+Black_list:
+  dec: 拉黑
+  black_list:
+    name: 拉黑
+    method: get
+    pars: {
+
+        'to_uid': '2686548',
+        'is_remove': '0',
+        'm':'mapi2',
+        'c':'msg',
+        'a':'setBlackList'
+
+      }
+    url: /hrloo.php
+
+Notice:
+  dec: 通知/消息推送
+  report_deviceid: #上报device id及通知设置等信息
+    name: 上报device id及通知设置等信息
+    method: post
+    url: /hrloo.php
+    header: {
+              'User-Agent': 'OkHttp 4.9.1/HRLOO/2-2.8.5/WIFI/Xiaomi Redmi 8A',
+              'Content-Type': 'application/x-www-form-urlencoded'
+            }
+    # 英文的半角符号
+    data: {
+
+            'uid':'4113820',
+            'device_id':'13eef3bfa53445de902f30012de1cbbd',
+            'system_notice':'1',
+            'os_type':'Android',
+            'manufacturer':'Xiaomi'
+
+        }
+
+    query_string: {
+
+                    'a':'report_device_id',
+                    'c':'uc',
+                    'm':'app'
+
+                  }
+
+Msg_Center:
+  dec: 消息中心
+  person_center: # app个人主页
+    name: app个人主页
+    method: get
+    url: /hrloo.php
+    pars: {
+            'uid': '1980788',
+            'm':'mapi2',
+            'c':'uc',
+            'a':'homePage'
+
+        }
+
+  get_maodou: # 获取茅豆
+    name: 获取茅豆
+    method: get
+    url: /hrloo.php
+    pars: {
+
+         'm':'mapi2',
+         'c':'user',
+         'a':'left_maodou'
+
+           }
+
+  guest_inters: # 猜你感兴趣
+    name: 猜你感兴趣
+    method: get
+    url: /hrloo.php
+    pars: {
+
+        'm':'mapi2',
+        'c':'uc',
+        'a':'recommendUsers',
+        'pageSize': 1
+
+      }
+
+  category: # 消息中心分类列表
+    name: 消息中心分类列表
+    method: get
+    url: /hrloo.php
+    pars: {
+
+        'm':'mapi2',
+        'c':'msg',
+        'a':'msgCenterList'
+
+          }
+
+  get_chatrecord: #聊天、创建团队并获取历史聊天记录
+    name: 聊天、创建团队并获取历史聊天记录
+    method: post
+    url: /hrloo.php
+    query_string: {
+
+        'm':'mapi2',
+        'c':'msg',
+        'a':'startChat'
+
+      }  # 把query_string算作pars,带入参数中
+    body: {
+
+        'gid': 47000,
+        'to_uid': 4769524,
+        'max_id': 0
+         }
+
+
+  get_chatlist_data: # 聊天列表数据
+    name: 聊天列表数据
+    method: get
+    url: /hrloo.php
+    pas: {
+          'm':'mapi2',
+          'c':'msg',
+          'a':'chatList'
+      }
+
+  get_category_type: # 消息中心类型列表数据
+    name: 消息中心类型列表数据,消息类型:1=评论与点赞；2=服务通知；3=学习小助手
+    method: post
+    url: /hrloo.php
+    body: {
+
+        'type':'1',
+        'page':'1'
+
+      }
+    query_string: {
+
+            'm':'mapi2',
+            'c':'msg',
+            'a':'centerDetails'
+      }
+
+  get_unreadmsg: # 获取消息中心未读数量
+    name: 获取消息中心未读数量
+    method: get
+    url: /hrloo.php
+    pars: {
+          'm':'mapi2',
+          'c':'msg',
+          'a':'getMsgUnread'
+      }
+
+
+  upload_img: #上传聊天图片
+    name: 上传聊天图片
+    method: post
+    url: hr/uc/msg/ajax_upload_cp
+    body: {
+           "file":"d76c1d9ad54f43929fd96a58058c18d1!400x400.png"
+      }
+
+  get_groupsendlist: #获取当前用户群发列表数据
+    name: 获取当前用户群发列表数据
+    method: get
+    url: /hrloo.php
+    query_string: {
+                      'm':'mapi2',
+                      'c':'msg',
+                      'a':'groupSendList'
+      }
+    pars: {
+               'page':'1'
+      }
+
+
+  add_groupsend: # 添加群发消息
+    name: 添加群发消息
+    method: get # get方式的参数不需要 query_string
+    url: /hrloo.php
+    pras: {
+        'content': 'ddddddddddd',
+        'text_type': '0',
+        'seo_title': '三茅人力资源网-专业的HR学习交流平台',
+        'seo_desc': '三茅人力资源网，是专业的HR学习交流平台，汇集数十万份人力资源六大模块案例资料和完善的人力资源学习课程，吸引了众多HR精英分享人力资源从业经验，更有特色的三茅打卡学习方式，鼓励HR每天学习一个人力资源知识点，建立良好的学习习惯。加入三茅，你将收获知识、导师和朋友，成就更好的自己',
+        'm':'mapi2',
+        'c':'msg',
+        'a':'setGroupSend'
+      }
+
+  admire_others: # 赞赏
+    name: 赞赏
+    method: post
+    url: /hrloo.php
+    query_string: {
+
+         'm':'mapi2',
+         'c':'uc',
+         'a':'admire'
+
+      }
+    body: {
+        'touid':'你好3108768',
+        'fee':'10',
+        'moduleid':'9',
+        'itemid': '3108768'
+      }
+
+  get_app: # 得到app
+    name: app
+    method: post
+    url: /apps/v1/workflowspro/getworkflowcategoryspro?
+    query_string: {
+           'app':'c29abb5e-4192-402d-9ba6-884728b227cc'
+          }
+    header: {
+
+         'Host': 'pcdyycs-design.a.onein.cn',
+         'current-env': 'design',
+         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36',
+         'Content-Type': 'application/json;charset=UTF-8',
+         'appId': 'c29abb5e-4192-402d-9ba6-884728b227cc',
+         'token': '90446551cd251f1150625accec9bc685',
+         'Referer': 'https://pcdyycs-design.a.onein.cn/zlym',
+         'Accept-Language': 'zh-CN,zh;q=0.9',
+         'Cookie':' REFRESH-TOKEN=ROW0qp-glNYxC52s4gexUncskD7Wxp2OMoBSukvTEjg; AUTH-LOCAL=eyJhbGciOiJSUzI1NiIsImtpZCI6IkRBQjYyMTA2RjE5NURDMzA0NjgyMUY5NkIxQjFBRjQwNUUyRUNBREUiLCJ0eXAiOiJhdCtqd3QiLCJ4NXQiOiIyclloQnZHVjNEQkdnaC1Xc2JHdlFGNHV5dDQifQ.eyJuYmYiOjE2MzYwODE3NzcsImV4cCI6MTYzNjA4NTM3NywiaXNzIjoiaHR0cHM6Ly9hZG1pbi5hLm9uZWluLmNuL2lkIiwiYXVkIjoiaWRfYXBpIiwiY2xpZW50X2lkIjoiaWRfY2xpZW50aWQiLCJzdWIiOiI5NmM1MTQ1ZC0zZTMzLTRmNDYtYTc0Yy05N2FmYjE4MzUwYTEiLCJhdXRoX3RpbWUiOjE2MzYwODE3NzcsImlkcCI6ImxvY2FsIiwiaWQiOiI5NmM1MTQ1ZC0zZTMzLTRmNDYtYTc0Yy05N2FmYjE4MzUwYTEiLCJuaWNrbmFtZSI6IuWkp-iAgeW4iCIsInRzIjoiMTkxMDE3Mjk1NyIsInVzZXJUeXBlIjoiZjc5NTIxYzktOWFjZC00ZjdjLWIzYTAtNjBhZjIxNGMzMTk0IiwiYXBwSWQiOiJjMjlhYmI1ZS00MTkyLTQwMmQtOWJhNi04ODQ3MjhiMjI3Y2MiLCJzY29wZSI6WyJvcGVuaWQiLCJwcm9maWxlIiwiaWRfYXBpIiwib2ZmbGluZV9hY2Nlc3MiXSwiYW1yIjpbImN1c3RvbSJdfQ.GL93vZXNhmLR61AAbiNaNq_Ur48SBe_rA83-XwDSutxQiySBIU8RcCzfMB1dfRoe-Y6JvhEOA9Qk9SBGJH5TFmyZApL1fonz1kOYjQGdq0pDovs-GI5L177mie92RDZAS906m8NcIo8hLyqt0pjrhvV-XiiR9KP7FfHVI1EgyOFYzgmpWIy0x6dOmjqGzGb_2nBlECSx2SpRqQukqBa4z9pG3dOIxwSu8qYP1US3Czwgzr16osOxmA3rtXIMI05put_E9EBxSWe_3ezd0jvw51DCGmegbPxOo4nLOQIPBD913AWgF5kfPNQ5HOd0jnn4vIi4AXJqv9TPRhcCk5li_w'
+            }
+
+
+
+Testsuit_Data: # 测试数据
+
+  admire: # 测试赞善
+    - touid: '3108768'
+      fee: '10'
+      moduleid: '9'
+      itemid: '3108768'
+
+    - touid: '1457168'
+      fee: '5'
+      moduleid: '9'
+      itemid: '1457168'
+
+    - touid: '3135482'
+      fee: '1'
+      moduleid: '9'
+      itemid: '3135482'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

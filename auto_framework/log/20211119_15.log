@@ -1,0 +1,44 @@
+2021-11-19 15:02:10,260 - api_sanmao.py - INFO - 开始登录
+2021-11-19 15:02:10,261 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-19 15:02:10,261 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300724}
+2021-11-19 15:02:10,755 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-19 15:02:10,755 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":null,"data":{"setcookie_url":"https:\/\/passport.sanmao.com\/user\/sync_login?sync_already%5B0%5D=1&sync_auth=VdT3nXmP0sBQQ","need_code":0}}
+2021-11-19 15:02:10,756 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-19 15:02:10,757 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-19 15:02:10,757 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('d76c1d9ad54f43929fd96a58058c18d1!400x400.png', <_io.BufferedReader name='F:\\test_github\\Hr_webauto\\auto_framework\\data_hrzl\\hr_pic\\d76c1d9ad54f43929fd96a58058c18d1!400x400.png'>, 'image/jpeg'))]>
+2021-11-19 15:02:11,700 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-19 15:02:11,700 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":"请求成功！","data":"https:\/\/files.hrloo.com\/www\/uploadfile\/2022\/0218\/e24a130c4770419b72eba4dfd628a35c.png"}
+2021-11-19 15:02:11,713 - api_sanmao.py - INFO - 开始登录
+2021-11-19 15:02:11,713 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-19 15:02:11,713 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300724}
+2021-11-19 15:02:11,748 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-19 15:02:11,748 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":null,"data":{"setcookie_url":"https:\/\/passport.sanmao.com\/user\/sync_login?sync_already%5B0%5D=1&sync_auth=ZdTMxvl84uqGJ","need_code":0}}
+2021-11-19 15:02:11,749 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-19 15:02:11,750 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-19 15:02:11,750 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='F:\\test_github\\Hr_webauto\\auto_framework\\data_hrzl\\hr_zl\\试卷一主观题.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-19 15:02:13,647 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-19 15:02:13,647 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":"请求成功！","data":"602932"}
+2021-11-19 15:03:46,681 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-19 15:03:47,554 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-19 15:03:47,631 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-19 15:03:47,631 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-19 15:03:47,640 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-19 15:03:48,125 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-19 15:03:48,125 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-19 15:03:48,134 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-19 15:03:48,190 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-19 15:03:48,243 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-19 15:03:48,243 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-19 15:03:58,599 - webbase.py - ERROR - click ['xpath', ".//div[@class='fn-vip-link-nologin']/preceding-sibling::div[1]"] 失败
+2021-11-19 15:05:58,271 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-19 15:05:59,068 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-19 15:05:59,289 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-19 15:05:59,289 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-19 15:05:59,307 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-19 15:05:59,796 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-19 15:05:59,796 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-19 15:05:59,804 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-19 15:05:59,859 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-19 15:05:59,928 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-19 15:05:59,928 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-19 15:06:10,224 - webbase.py - ERROR - click ['xpath', ".//div[@class='fn-vip-link-nologin']/preceding-sibling::div[1]"] 失败

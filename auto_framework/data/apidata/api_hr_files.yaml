@@ -1,0 +1,18 @@
+Hr_Sanmao:
+  desc: 三茅网站文件上传
+  Upload_Pic:
+    name: 图片上传
+    url: /hr/uc/msg/ajax_upload_cp
+
+  Upload_Zl: # 资料的传递有点沙雕，不会自己带cookies,需要自己写cookie
+    name: 资料上传
+    url: /hr/zl/zl/ajax_upload_zl
+    cookie: CE2u_fb25_auth=ccffhfSolwzdDi3jGKI0RgvA2u4SRsE5H0UlE%2FI0fu0rV0krCf6x9xoVkcVZ%2FCh%2BUUqdBNtfJxSCJ1KK0ibXnOu96fP3; hauth=Bc6hNnNPZlpEcmJQWXc5NEhpYW9sbW5YVHh1S2p3anQxSmJaZFBvcnVIdHZYNzJLamFnLzBCUTdGYXZ3NmFtZ3BUeTlpZHNYb01vYjluMStSTkN0M0NRalI4RHc4S1VLTjBG
+    body: {
+
+            'name': 'imgFile',
+            'filename': '试卷一主观题.xlsx',
+            'path': r'F:\python3.6.8\projects\auto_framework\data_hrzl\hr_zl\试卷一主观题.xlsx' ,
+            'type': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+    }
+

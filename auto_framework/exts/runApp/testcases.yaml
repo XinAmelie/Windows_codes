@@ -1,0 +1,52 @@
+testsuits/api_auto/test_2api_case.py::TestApiCase1:
+- test_login_case01[case_data0]
+- test_login_case01[case_data1]
+- test_login_case01[case_data2]
+testsuits/api_auto/test_2api_case.py::TestApiCase2:
+- test_article_case01[case_data0]
+- test_article_case02[case_data0]
+- test_article_case03[case_data0]
+- test_article_case04[case_data0]
+- test_article_case05
+- test_article_case06
+testsuits/api_auto/test_2api_case.py::TestApiCase3:
+- test_file_case01[case_data0]
+- test_file_case02[case_data0]
+- test_file_case03[case_data0]
+- test_file_case04[case_data0]
+- test_file_case05[case_data0]
+testsuits/api_auto/test_api.py::Test_Notice:
+- test_admire[test_data0]
+- test_admire[test_data1]
+- test_admire[test_data2]
+- test_app
+- test_chatcord
+- test_chatlist
+- test_getmaodou
+- test_groupsend
+- test_guestinters
+- test_msgcategory
+- test_setBlackList
+- test_unread
+testsuits/api_auto/test_app_api.py::Test_Appchat:
+- test_admire
+- test_centerDetails
+- test_centerDetails_1
+- test_centerDetails_3
+- test_chatList
+- test_getBlackList
+- test_getMsgUnread
+- test_groupSendList
+- test_interesting_user
+- test_maodou
+- test_maodou1
+- test_msgCenterList
+- test_msgPush
+- test_setBlackList
+- test_setBlackList1
+- test_setGroupSend
+- test_startChat
+- test_uploadImg
+testsuits/api_auto/test_sanmao_api.py::Test_Sanmao:
+- test_upload_pic
+- test_upload_zl

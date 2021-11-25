@@ -1,0 +1,121 @@
+testsuits/api_auto/test_2api_case.py::TestApiCase1:
+  comment: 接口自动化-稿件管理系统：登录功能模块
+  test_login_case01[case_data0]: 接口自动化用例-用户登录测试
+  test_login_case01[case_data1]: 接口自动化用例-用户登录测试
+  test_login_case01[case_data2]: 接口自动化用例-用户登录测试
+testsuits/api_auto/test_2api_case.py::TestApiCase2:
+  comment: 接口自动化-稿件管理系统：稿件管理功能模块
+  test_article_case01[case_data0]: 接口自动化用例-稿件增加
+  test_article_case02[case_data0]: 接口自动化用例-稿件删除
+  test_article_case03[case_data0]: 接口自动化用例-稿件查询
+  test_article_case04[case_data0]: 接口自动化用例-稿件修改
+  test_article_case05: 接口自动化用例-稿件批准
+  test_article_case06: 接口自动化用例-稿件到期
+testsuits/api_auto/test_2api_case.py::TestApiCase3:
+  comment: 接口自动化-稿件管理系统：文件上传下载功能模块
+  test_file_case01[case_data0]: 接口自动化用例-新增文件夹，删除文件夹
+  test_file_case02[case_data0]: 接口自动化用例-文档上传
+  test_file_case03[case_data0]: 接口自动化用例-文档查询
+  test_file_case04[case_data0]: 接口自动化用例-文档下载
+  test_file_case05[case_data0]: 接口自动化用例-文档删除
+testsuits/api_auto/test_api.py::Test_Notice:
+  comment: 通知/消息推送
+  test_admire[test_data0]: null
+  test_admire[test_data1]: null
+  test_admire[test_data2]: null
+  test_app: null
+  test_chatcord: 聊天、创建团队并获取历史聊天记录
+  test_chatlist: 聊天列表数据
+  test_getmaodou: 剩余的茅豆
+  test_groupsend: 群发消息
+  test_guestinters: 剩余的茅豆
+  test_msgcategory: 消息中心分类列表
+  test_setBlackList: 设置黑名单,拉黑
+  test_unread: 获取消息中心未读数
+testsuits/api_auto/test_app_api.py::Test_Appchat:
+  comment: 测试的app聊天，第一步个人主页，第二步猜你感兴趣等等
+  test_admire: 赞赏1
+  test_centerDetails: 消息中心类型列表数据,消息类型:1=评论与点赞；2=服务通知；3=学习小助手；
+  test_centerDetails_1: 消息中心类型列表数据,消息类型:1=评论与点赞；2=服务通知；3=学习小助手；
+  test_centerDetails_3: 消息中心类型列表数据,消息类型:1=评论与点赞；2=服务通知；3=学习小助手；
+  test_chatList: 聊天列表数据
+  test_getBlackList: 获取用户拉黑数据
+  test_getMsgUnread: 获取消息中心未读数量
+  test_groupSendList: 获取当前用户群发列表数据
+  test_interesting_user: 猜你感兴趣
+  test_maodou: 获取茅豆
+  test_maodou1: 获取个人主页
+  test_msgCenterList: 消息中心分类列表
+  test_msgPush: app消息推送
+  test_setBlackList: 设置黑名单,拉黑
+  test_setBlackList1: 设置黑名单,取消拉黑(需要先设置前置处理器拉黑)
+  test_setGroupSend: 添加群发消息
+  test_startChat: 发起聊天、创建团队并获取历史聊天记录
+  test_uploadImg: 上传聊天图片
+testsuits/api_auto/test_excell.py::test_params[\u4f60\u4e0d\u597d-1999.0]:
+  comment: null
+  test_params[\u4f60\u4e0d\u597d-1999.0]: null
+testsuits/api_auto/test_excell.py::test_params[\u4f60\u4e0d\u597d-200.0]:
+  comment: null
+  test_params[\u4f60\u4e0d\u597d-200.0]: null
+testsuits/api_auto/test_excell.py::test_params[\u4f60\u4e0d\u597d-400.0]:
+  comment: null
+  test_params[\u4f60\u4e0d\u597d-400.0]: null
+testsuits/api_auto/test_excell.py::test_params[\u4f60\u597d-1999.0]:
+  comment: null
+  test_params[\u4f60\u597d-1999.0]: null
+testsuits/api_auto/test_excell.py::test_params[\u4f60\u597d-200.0]:
+  comment: null
+  test_params[\u4f60\u597d-200.0]: null
+testsuits/api_auto/test_excell.py::test_params[\u4f60\u597d-400.0]:
+  comment: null
+  test_params[\u4f60\u597d-400.0]: null
+testsuits/api_auto/test_excell.py::test_params[\u6211\u5f88\u597d-1999.0]:
+  comment: null
+  test_params[\u6211\u5f88\u597d-1999.0]: null
+testsuits/api_auto/test_excell.py::test_params[\u6211\u5f88\u597d-200.0]:
+  comment: null
+  test_params[\u6211\u5f88\u597d-200.0]: null
+testsuits/api_auto/test_excell.py::test_params[\u6211\u5f88\u597d-400.0]:
+  comment: null
+  test_params[\u6211\u5f88\u597d-400.0]: null
+testsuits/api_auto/test_params.py::test_params[-expect0]:
+  comment: null
+  test_params[-expect0]: null
+testsuits/api_auto/test_params.py::test_params[214-expect2]:
+  comment: null
+  test_params[214-expect2]: null
+testsuits/api_auto/test_params.py::test_params[333333-expect1]:
+  comment: null
+  test_params[333333-expect1]: null
+testsuits/api_auto/test_sanmao_api.py::Test_Sanmao:
+  comment: 三茅网站接口
+  test_upload_pic: 上传图片
+  test_upload_zl: 上传资料
+testsuits/web_auto/test_1web_case.py::TestCase1:
+  comment: WEB自动化-稿件管理系统：登录功能模块
+  test_login_case01[case_data0]: WEB自动化用例-用户登录测试
+  test_login_case01[case_data1]: WEB自动化用例-用户登录测试
+  test_login_case01[case_data2]: WEB自动化用例-用户登录测试
+testsuits/web_auto/test_1web_case.py::TestCase2:
+  comment: WEB自动化-稿件管理系统：稿件管理功能模块
+  test_article_case01[case_data0]: WEB自动化用例-稿件增加
+  test_article_case02[case_data0]: WEB自动化用例-稿件删除
+  test_article_case03[case_data0]: WEB自动化用例-稿件查询
+  test_article_case04[case_data0]: WEB自动化用例-稿件修改
+  test_article_case05: WEB自动化用例-稿件批准
+  test_article_case06: WEB自动化用例-稿件到期
+testsuits/web_auto/test_1web_case.py::TestCase3:
+  comment: WEB自动化-稿件管理系统：文件上传下载功能模块
+  test_file_case01[case_data0]: WEB自动化用例-新增文件夹，删除文件夹
+  test_file_case02[case_data0]: WEB自动化用例-文档上传
+  test_file_case03[case_data0]: WEB自动化用例-文档下载
+  test_file_case04[case_data0]: WEB自动化用例-文档查询
+  test_file_case05[case_data0]: WEB自动化用例-文档删除
+testsuits/web_auto/test_sanmao_web.py::Test_Web:
+  comment: web的测试类,三茅网站
+  test_chat: 聊天
+  test_hrloo_001: null
+  test_orider: null
+  test_sanmao_zajindan: null
+  test_write_Sum: null

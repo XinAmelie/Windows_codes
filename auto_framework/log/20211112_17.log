@@ -1,0 +1,314 @@
+2021-11-12 17:00:33,563 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:00:33,563 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:00:33,802 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:00:33,802 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:00:33,802 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:00:33,803 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:00:34,080 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:00:34,080 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:00:47,486 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:00:47,486 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:00:47,739 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:00:47,739 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:00:47,739 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:00:47,740 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:00:47,975 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:00:47,976 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:00:47,976 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:00:47,976 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:00:48,093 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:02:50,522 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:02:50,522 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:02:50,758 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:02:50,759 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:02:50,759 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:02:50,759 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:02:51,019 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:02:51,019 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:02:51,019 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:02:51,019 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:02:51,020 - apibase.py - ERROR - POST-接口请求超时：string indices must be integers
+2021-11-12 17:04:09,889 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:04:09,889 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:04:10,157 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:04:10,158 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:04:10,161 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:04:10,161 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:04:10,432 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:04:10,432 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:04:10,433 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:04:10,433 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:04:10,433 - apibase.py - ERROR - POST-接口请求超时：string indices must be integers
+2021-11-12 17:05:14,003 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:05:14,003 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:05:14,242 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:05:14,242 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:05:14,243 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:05:14,243 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:05:14,488 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:05:14,489 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:05:14,489 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:05:14,489 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:05:14,594 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:06:02,158 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:06:02,158 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:06:02,405 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:06:02,405 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:06:02,408 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:06:02,409 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:06:02,664 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:06:02,664 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:06:02,665 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:06:02,665 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:06:02,760 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:06:09,160 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:06:09,160 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:06:09,394 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:06:09,395 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:06:09,395 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:06:09,395 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:06:09,661 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:06:09,661 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:06:09,661 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:06:09,661 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:06:09,764 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:08:56,358 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:08:56,358 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:08:56,590 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:08:56,590 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:08:56,590 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:08:56,591 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:08:56,901 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:08:56,901 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:08:56,901 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:08:56,902 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:08:56,995 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:09:14,108 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:09:14,108 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:09:14,364 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:09:14,364 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:09:14,365 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:09:14,365 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:09:14,625 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:09:14,625 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:09:14,625 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:09:14,625 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:09:14,727 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:10:12,394 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:10:12,394 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:10:12,664 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:10:12,665 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:10:12,665 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:10:12,665 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:10:12,920 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:10:12,920 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:10:12,920 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:10:12,920 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('111.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:10:13,029 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:11:49,430 - api_sanmao.py - INFO - 开始登录
+2021-11-12 17:11:49,430 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:11:49,430 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1111046703}
+2021-11-12 17:11:49,820 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:11:49,822 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:11:49,822 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110302862}
+2021-11-12 17:11:49,866 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:11:49,866 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:11:49,867 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:11:49,867 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('111.xlsx', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\111.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:11:49,987 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:13:40,967 - api_sanmao.py - INFO - 开始登录
+2021-11-12 17:13:40,967 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:13:40,967 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1111046703}
+2021-11-12 17:13:41,367 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:13:41,375 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:13:41,375 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110302862}
+2021-11-12 17:13:41,422 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:13:41,422 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:13:41,422 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:13:41,422 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='F:\\python3.6.8\\projects\\auto_framework\\data_hrzl\\hr_zl\\试卷一主观题.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:13:41,533 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:16:24,159 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:16:24,159 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:16:24,405 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:16:24,405 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:16:24,406 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:16:24,406 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:16:24,644 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:16:24,644 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:16:24,645 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:16:24,645 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='F:\\python3.6.8\\projects\\auto_framework\\data_hrzl\\hr_zl\\试卷一主观题.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:16:24,743 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:16:37,343 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-12 17:16:37,343 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 1406607478}
+2021-11-12 17:16:37,573 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:16:37,574 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-12 17:16:37,577 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-12 17:16:37,577 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg', <_io.BufferedReader name='C:\\Users\\www\\Desktop\\6ca7fdb3-2878-403a-8721-fc41b4ee2429.jpg'>, 'image/jpeg'))]>
+2021-11-12 17:16:37,817 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:16:37,817 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-12 17:16:37,818 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-12 17:16:37,818 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='F:\\python3.6.8\\projects\\auto_framework\\data_hrzl\\hr_zl\\试卷一主观题.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-12 17:16:37,921 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-12 17:16:37,922 - api_hr_upload.py - INFO - 断言失败:请求成功！
+2021-11-12 17:31:27,918 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:31:27,918 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:31:27,926 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:31:28,515 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:31:28,515 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:31:28,525 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:31:28,575 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:31:28,631 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:31:29,790 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[5]"] 成功
+2021-11-12 17:31:33,201 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:31:33,201 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:31:33,201 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:31:44,533 - webbase.py - ERROR - click ['xpath', ".//a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']/img[1]"] 失败
+2021-11-12 17:31:48,770 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:31:48,770 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:31:48,781 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:31:49,272 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:31:49,272 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:31:49,280 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:31:49,345 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:31:49,414 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:31:52,414 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[text()='会员中心']
+2021-11-12 17:31:52,427 - webbase.py - DEBUG - 定位元素('xpath', ".//div[text()='会员中心']")成功
+2021-11-12 17:31:58,612 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:31:58,612 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:31:58,638 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:31:59,147 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:31:59,147 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:31:59,157 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:31:59,218 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:31:59,281 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:32:02,281 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[text()='会员中心']
+2021-11-12 17:32:07,777 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:32:07,777 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:32:07,785 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:32:08,281 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:32:08,281 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:32:08,290 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:32:08,353 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:32:08,428 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:32:10,699 - webbase.py - DEBUG - click ['xpath', ".//div[@class='fn-vip-link-nologin']/preceding-sibling::div[1]"] 成功
+2021-11-12 17:32:14,880 - webbase.py - DEBUG - click ['xpath', ".//a[@class='vip-ct-item item1 fn-common-href']"] 成功
+2021-11-12 17:32:21,077 - webbase.py - DEBUG - click ['xpath', ".//div[@class='fr rightBlock']"] 成功
+2021-11-12 17:32:21,369 - webbase.py - DEBUG - click ['xpath', ".//div[@class='item-wrap clearfix']/div[1]/p[1]/span[1]"] 成功
+2021-11-12 17:32:24,429 - webbase.py - DEBUG - click ['xpath', ".//div[@class='item-wrap clearfix']/div[2]/p[1]/span[1]"] 成功
+2021-11-12 17:32:27,578 - webbase.py - DEBUG - click ['xpath', ".//div[@class='fn-vip-link-nologin']/preceding-sibling::div[1]"] 成功
+2021-11-12 17:32:30,761 - webbase.py - DEBUG - click ['id', 'egg-animate1'] 成功
+2021-11-12 17:32:33,817 - webbase.py - DEBUG - click ['xpath', ".//div[@class='smashing-btns']/div[3]"] 成功
+2021-11-12 17:32:33,817 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='popup-layout _transform _show']/section[1]/div[1]/p[1]
+2021-11-12 17:32:35,017 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='popup-layout _transform _show']/section[1]/div[1]/p[1]")成功
+2021-11-12 17:34:02,610 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:34:02,610 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:34:02,619 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:34:03,108 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:34:03,108 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:34:03,116 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:34:03,172 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:34:03,233 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:34:14,305 - webbase.py - ERROR - click ['xpath', ".//div[@class='hr-nfr-item nfr-msg fn-sms-center-click']/div[1]/div[2]"] 失败
+2021-11-12 17:43:19,649 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:43:19,649 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:43:19,658 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:43:20,145 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:43:20,145 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:43:20,153 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:43:20,210 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:43:20,263 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:43:23,263 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[text()='会员中心']
+2021-11-12 17:43:23,276 - webbase.py - DEBUG - 定位元素('xpath', ".//div[text()='会员中心']")成功
+2021-11-12 17:43:45,354 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:43:45,354 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:43:45,362 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:43:45,962 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:43:45,962 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:43:45,970 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:43:46,025 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:43:46,079 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:43:49,080 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[text()='会员中心']
+2021-11-12 17:43:49,093 - webbase.py - DEBUG - 定位元素('xpath', ".//div[text()='会员中心']")成功
+2021-11-12 17:44:04,659 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:44:04,659 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:44:04,667 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:44:05,173 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:44:05,173 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:44:05,182 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:44:05,244 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:44:05,302 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:44:07,031 - webbase.py - DEBUG - click ['xpath', ".//div[@class='fn-vip-link-nologin']/preceding-sibling::div[1]"] 成功
+2021-11-12 17:44:09,096 - webbase.py - DEBUG - click ['xpath', ".//a[@class='vip-ct-item item1 fn-common-href']"] 成功
+2021-11-12 17:44:15,282 - webbase.py - DEBUG - click ['xpath', ".//div[@class='fr rightBlock']"] 成功
+2021-11-12 17:44:15,532 - webbase.py - DEBUG - click ['xpath', ".//div[@class='item-wrap clearfix']/div[1]/p[1]/span[1]"] 成功
+2021-11-12 17:44:18,587 - webbase.py - DEBUG - click ['xpath', ".//div[@class='item-wrap clearfix']/div[2]/p[1]/span[1]"] 成功
+2021-11-12 17:44:21,746 - webbase.py - DEBUG - click ['xpath', ".//div[@class='fn-vip-link-nologin']/preceding-sibling::div[1]"] 成功
+2021-11-12 17:44:37,089 - webbase.py - ERROR - click ['id', 'egg-animate1'] 失败
+2021-11-12 17:46:34,328 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:46:34,328 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:46:34,337 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:46:34,829 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:46:34,829 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:46:34,837 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:46:34,893 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:46:34,950 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:46:35,695 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[5]"] 成功
+2021-11-12 17:46:39,105 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:46:39,105 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:46:39,105 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:46:50,297 - webbase.py - ERROR - click ['xpath', ".//a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']/img[1]"] 失败
+2021-11-12 17:49:19,640 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:49:19,641 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:49:19,650 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:49:20,143 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:49:20,143 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:49:20,151 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:49:20,209 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:49:20,268 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:49:20,883 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-12 17:49:24,293 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:49:24,293 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:49:24,293 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:49:24,505 - webbase.py - DEBUG - click ['xpath', ".//a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']/img[1]"] 成功
+2021-11-12 17:49:31,421 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 不存在
+2021-11-12 17:49:34,505 - webbase.py - DEBUG - click ['xpath', ".//div[@class='product-btns']/a[@class='ui-btn1 ui-buy-btn fn-buy-btn' and @title='立即购买' and text()='立即购买']"] 成功
+2021-11-12 17:49:37,568 - webbase.py - DEBUG - click ['xpath', ".//a[contains(@title,'立即支付')]"] 成功
+2021-11-12 17:49:51,310 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:49:51,310 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:49:51,318 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:49:51,814 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:49:51,815 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:49:51,822 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:49:51,873 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:49:51,953 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:49:52,860 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-12 17:49:56,272 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:49:56,272 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:49:56,272 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:49:56,489 - webbase.py - DEBUG - click ['xpath', ".//a[@title='《人力资源数据分析》系列精品课']/img[1]"] 成功
+2021-11-12 17:49:58,219 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 存在
+2021-11-12 17:50:00,234 - affard_ordeid.py - DEBUG -  我在这里发现了['xpath', ".//div[@class='product-btns']/a[text()='立即学习']"],我要退出
+2021-11-12 17:50:09,009 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:50:09,009 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:50:09,017 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:50:09,512 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:50:09,512 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:50:09,521 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:50:09,582 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:50:09,665 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:50:10,404 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-12 17:50:13,820 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:50:13,820 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:50:13,820 - guibase.py - DEBUG - 鼠标偏移811,438
+2021-11-12 17:50:14,039 - webbase.py - DEBUG - click ['xpath', ".//a[@title='《人力资源数据分析》系列精品课']/img[1]"] 成功
+2021-11-12 17:50:14,573 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 存在
+2021-11-12 17:50:16,588 - affard_ordeid.py - DEBUG -  我在这里发现了['xpath', ".//div[@class='product-btns']/a[text()='立即学习']"],我要退出
+2021-11-12 17:50:30,509 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-12 17:50:30,509 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-12 17:50:30,516 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-12 17:50:31,005 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-12 17:50:31,005 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-12 17:50:31,014 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-12 17:50:31,073 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-12 17:50:31,136 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-12 17:50:32,180 - webbase.py - DEBUG - click ['xpath', ".//div[@class='aimg']/a[1]/following-sibling::a[1]"] 成功

@@ -1,0 +1,209 @@
+2021-11-18 09:29:16,419 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:29:17,441 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:29:17,523 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:29:17,523 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:29:17,531 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:29:18,028 - webbase.py - DEBUG - send keys 2008932277 成功
+2021-11-18 09:29:18,028 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:29:18,036 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:29:18,090 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:29:18,147 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:29:18,147 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:29:19,504 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-18 09:29:25,954 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:29:26,676 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:29:26,749 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:29:26,749 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:29:26,758 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:29:27,248 - webbase.py - DEBUG - send keys 2008932277 成功
+2021-11-18 09:29:27,248 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:29:27,255 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:29:27,307 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:29:27,363 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:29:27,363 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:29:31,122 - webbase.py - DEBUG - click ['xpath', ".//div[@class='aimg']/a[1]/following-sibling::a[1]"] 成功
+2021-11-18 09:32:03,525 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:32:04,118 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:32:04,172 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:32:04,173 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:32:04,182 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:32:04,771 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-18 09:32:04,771 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:32:04,779 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:32:04,827 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:32:04,881 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:32:04,881 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:32:05,646 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-18 09:32:11,654 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='overly '] /div[1]/h1[1]
+2021-11-18 09:34:11,316 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:34:12,076 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:34:12,130 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:34:12,130 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:34:12,139 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:34:12,639 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-18 09:34:12,639 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:34:12,647 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:34:12,698 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:34:12,752 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:34:12,752 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:34:13,437 - webbase.py - DEBUG - click ['xpath', ".//div[@class='nsh-w-left']/a[6]"] 成功
+2021-11-18 09:34:16,862 - guibase.py - DEBUG - 鼠标移动到842,453
+2021-11-18 09:34:16,862 - guibase.py - DEBUG - 鼠标移动到842,453
+2021-11-18 09:34:16,862 - guibase.py - DEBUG - 鼠标移动到842,453
+2021-11-18 09:34:19,132 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-course-item-global-style swiper-slide']/a[@title='N1-薪酬&绩效体系设计与变革-双料全能研修证书班']"] 成功
+2021-11-18 09:34:29,714 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='product-btns']/a[text()='立即学习']") 不存在
+2021-11-18 09:34:32,797 - webbase.py - DEBUG - click ['xpath', ".//div[@class='product-btns']/a[@class='ui-btn1 ui-buy-btn fn-buy-btn' and @title='立即购买' and text()='立即购买']"] 成功
+2021-11-18 09:34:35,861 - webbase.py - DEBUG - click ['xpath', ".//a[contains(@title,'立即支付')]"] 成功
+2021-11-18 09:34:42,379 - guibase.py - DEBUG - 查找对象browser存在
+2021-11-18 09:34:42,379 - guibase.py - DEBUG - 查找对象browser存在
+2021-11-18 09:34:42,379 - guibase.py - DEBUG - 查找对象browser存在
+2021-11-18 09:34:43,610 - guibase.py - DEBUG - 查找图片browser, 位置Point(x=1866, y=50), 偏移(-150, 0),点击True, 成功
+2021-11-18 09:34:43,610 - guibase.py - DEBUG - 查找图片browser, 位置Point(x=1866, y=50), 偏移(-150, 0),点击True, 成功
+2021-11-18 09:34:43,610 - guibase.py - DEBUG - 查找图片browser, 位置Point(x=1866, y=50), 偏移(-150, 0),点击True, 成功
+2021-11-18 09:34:43,727 - guibase.py - DEBUG - 文本框输入https://www.hrloo.com/hr/product/order/pay_nofity?orderid=2020053015908185564491
+2021-11-18 09:34:43,727 - guibase.py - DEBUG - 文本框输入https://www.hrloo.com/hr/product/order/pay_nofity?orderid=2020053015908185564491
+2021-11-18 09:34:43,727 - guibase.py - DEBUG - 文本框输入https://www.hrloo.com/hr/product/order/pay_nofity?orderid=2020053015908185564491
+2021-11-18 09:34:44,727 - guibase.py - DEBUG - 执行快捷键('Enter',)
+2021-11-18 09:34:44,727 - guibase.py - DEBUG - 执行快捷键('Enter',)
+2021-11-18 09:34:44,727 - guibase.py - DEBUG - 执行快捷键('Enter',)
+2021-11-18 09:34:44,885 - guibase.py - DEBUG - 查找对象orderid存在
+2021-11-18 09:34:44,885 - guibase.py - DEBUG - 查找对象orderid存在
+2021-11-18 09:34:44,885 - guibase.py - DEBUG - 查找对象orderid存在
+2021-11-18 09:34:46,111 - guibase.py - DEBUG - 查找图片orderid, 位置Point(x=1866, y=50), 偏移(-150, 0),点击True, 成功
+2021-11-18 09:34:46,111 - guibase.py - DEBUG - 查找图片orderid, 位置Point(x=1866, y=50), 偏移(-150, 0),点击True, 成功
+2021-11-18 09:34:46,111 - guibase.py - DEBUG - 查找图片orderid, 位置Point(x=1866, y=50), 偏移(-150, 0),点击True, 成功
+2021-11-18 09:34:47,111 - guibase.py - DEBUG - 执行快捷键('ctrl', 'c')
+2021-11-18 09:34:47,111 - guibase.py - DEBUG - 执行快捷键('ctrl', 'c')
+2021-11-18 09:34:47,111 - guibase.py - DEBUG - 执行快捷键('ctrl', 'c')
+2021-11-18 09:34:53,266 - guibase.py - DEBUG - 查找对象browser存在
+2021-11-18 09:34:53,266 - guibase.py - DEBUG - 查找对象browser存在
+2021-11-18 09:34:53,266 - guibase.py - DEBUG - 查找对象browser存在
+2021-11-18 09:34:54,492 - guibase.py - DEBUG - 查找图片browser, 位置Point(x=1866, y=50), 偏移(-150, 0),点击True, 成功
+2021-11-18 09:34:54,492 - guibase.py - DEBUG - 查找图片browser, 位置Point(x=1866, y=50), 偏移(-150, 0),点击True, 成功
+2021-11-18 09:34:54,492 - guibase.py - DEBUG - 查找图片browser, 位置Point(x=1866, y=50), 偏移(-150, 0),点击True, 成功
+2021-11-18 09:34:55,493 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-18 09:34:55,493 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-18 09:34:55,493 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-18 09:34:56,493 - guibase.py - DEBUG - 执行快捷键('Enter',)
+2021-11-18 09:34:56,493 - guibase.py - DEBUG - 执行快捷键('Enter',)
+2021-11-18 09:34:56,493 - guibase.py - DEBUG - 执行快捷键('Enter',)
+2021-11-18 09:35:02,509 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='overly '] /div[1]/h1[1]
+2021-11-18 09:35:02,523 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='overly '] /div[1]/h1[1]")成功
+2021-11-18 09:47:38,321 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:47:39,102 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:47:39,180 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:47:39,180 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:47:39,188 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:47:39,676 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-18 09:47:39,676 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:47:39,685 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:47:39,736 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:47:39,816 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:47:39,816 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:47:40,540 - webbase.py - DEBUG - click ['xpath', ".//div[@class='aimg']/a[1]/following-sibling::a[1]"] 成功
+2021-11-18 09:47:43,540 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='tip']/h1
+2021-11-18 09:48:59,742 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:49:00,585 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:49:00,636 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:49:00,636 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:49:00,644 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:49:01,138 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-18 09:49:01,138 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:49:01,147 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:49:01,207 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:49:01,282 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:49:01,282 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:49:02,311 - webbase.py - DEBUG - click ['xpath', ".//div[@class='aimg']/a[1]/following-sibling::a[1]"] 成功
+2021-11-18 09:49:07,344 - guibase.py - DEBUG - 查找对象show不存在
+2021-11-18 09:49:07,344 - guibase.py - DEBUG - 查找对象show不存在
+2021-11-18 09:49:07,344 - guibase.py - DEBUG - 查找对象show不存在
+2021-11-18 09:50:03,662 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:50:04,271 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:50:04,321 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:50:04,322 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:50:04,329 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:50:04,824 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-18 09:50:04,824 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:50:04,832 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:50:04,883 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:50:04,938 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:50:04,938 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:50:08,114 - webbase.py - DEBUG - click ['xpath', ".//div[@class='aimg']/a[1]/following-sibling::a[1]"] 成功
+2021-11-18 09:50:13,153 - guibase.py - DEBUG - 查找对象show不存在
+2021-11-18 09:50:13,153 - guibase.py - DEBUG - 查找对象show不存在
+2021-11-18 09:50:13,153 - guibase.py - DEBUG - 查找对象show不存在
+2021-11-18 09:50:38,986 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:50:39,665 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:50:39,718 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:50:39,718 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:50:39,729 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:50:40,213 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-18 09:50:40,213 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:50:40,220 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:50:40,278 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:50:40,337 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:50:40,337 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:50:43,896 - webbase.py - DEBUG - click ['xpath', ".//div[@class='aimg']/a[1]/following-sibling::a[1]"] 成功
+2021-11-18 09:50:51,961 - guibase.py - DEBUG - 查找对象show不存在
+2021-11-18 09:50:51,961 - guibase.py - DEBUG - 查找对象show不存在
+2021-11-18 09:50:51,961 - guibase.py - DEBUG - 查找对象show不存在
+2021-11-18 09:56:49,315 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:56:50,134 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:56:50,197 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:56:50,197 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:56:50,205 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:56:50,697 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-18 09:56:50,697 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:56:50,705 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:56:50,765 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:56:50,820 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:56:50,820 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:56:51,557 - webbase.py - DEBUG - click ['xpath', ".//div[@class='aimg']/a[1]/following-sibling::a[1]"] 成功
+2021-11-18 09:56:54,699 - guibase.py - DEBUG - 查找对象show存在
+2021-11-18 09:56:54,699 - guibase.py - DEBUG - 查找对象show存在
+2021-11-18 09:56:54,699 - guibase.py - DEBUG - 查找对象show存在
+2021-11-18 09:56:55,461 - guibase.py - DEBUG - 移动到图片 show 位置True, 点击:Point(x=646, y=310) 成功
+2021-11-18 09:56:55,461 - guibase.py - DEBUG - 移动到图片 show 位置True, 点击:Point(x=646, y=310) 成功
+2021-11-18 09:56:55,461 - guibase.py - DEBUG - 移动到图片 show 位置True, 点击:Point(x=646, y=310) 成功
+2021-11-18 09:56:55,551 - webbase.py - DEBUG - click ['xpath', ".//ul[@class = 'hr-header-tab box']/li[4]"] 成功
+2021-11-18 09:56:58,616 - webbase.py - DEBUG - click ['xpath', ".//div[@class='popupwrap dn']/preceding-sibling::p[1]/a[1]"] 成功
+2021-11-18 09:56:58,616 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='tit-input tpl1-input']/input[@id='subject']
+2021-11-18 09:56:59,180 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='tit-input tpl1-input']/input[@id='subject']")成功
+2021-11-18 09:56:59,234 - webbase.py - DEBUG - send keys 你我皆是羔羊却没有草原 成功
+2021-11-18 09:57:04,520 - guibase.py - DEBUG - 查找对象write_content存在
+2021-11-18 09:57:04,520 - guibase.py - DEBUG - 查找对象write_content存在
+2021-11-18 09:57:04,520 - guibase.py - DEBUG - 查找对象write_content存在
+2021-11-18 09:57:05,277 - guibase.py - DEBUG - 移动到图片 write_content 位置True, 点击:Point(x=648, y=357) 成功
+2021-11-18 09:57:05,277 - guibase.py - DEBUG - 移动到图片 write_content 位置True, 点击:Point(x=648, y=357) 成功
+2021-11-18 09:57:05,277 - guibase.py - DEBUG - 移动到图片 write_content 位置True, 点击:Point(x=648, y=357) 成功
+2021-11-18 09:57:09,299 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-18 09:57:09,299 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-18 09:57:09,299 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-18 09:57:09,449 - webbase.py - DEBUG - click ['xpath', ".//div[@class='r']/a[text()='发布']"] 成功
+2021-11-18 09:57:12,502 - webbase.py - DEBUG - click ['xpath', ".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[1]"] 成功
+2021-11-18 09:57:15,549 - webbase.py - DEBUG - click ['xpath', ".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[5]"] 成功
+2021-11-18 09:57:18,582 - webbase.py - DEBUG - click ['xpath', ".//div[@class='eidt-field clearfix']/span[1]/following-sibling::div/div[1]/span[5]"] 成功
+2021-11-18 09:57:21,583 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']
+2021-11-18 09:57:21,593 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']")成功
+2021-11-18 09:57:21,640 - webbase.py - DEBUG - send keys 人力效率1 成功
+2021-11-18 09:57:21,705 - webbase.py - DEBUG - click ['xpath', ".//li/span[text()='贴上']"] 成功
+2021-11-18 09:57:21,705 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']
+2021-11-18 09:57:21,712 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='clearfix in-tags']/div[1]/ul/li[1]/input[@type='text']")成功
+2021-11-18 09:57:21,748 - webbase.py - DEBUG - send keys 人力效率2 成功
+2021-11-18 09:57:21,783 - webbase.py - DEBUG - click ['xpath', ".//li/span[text()='贴上']"] 成功
+2021-11-18 09:57:21,851 - webbase.py - DEBUG - click ['id', 'saveBtn'] 成功
+2021-11-18 09:57:24,853 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='tip']/h1
+2021-11-18 09:57:24,867 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='tip']/h1")成功
+2021-11-18 09:57:48,835 - sanmao_login.py - INFO - 三茅登录开始
+2021-11-18 09:57:49,744 - webbase.py - DEBUG - 浏览器访问请求地址：https://passport.hrloo.com/user/login?referer=https%3A%2F%2Fwww.hrloo.com&wx_check_login=no_check
+2021-11-18 09:57:49,800 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-18 09:57:49,800 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-18 09:57:49,808 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-18 09:57:50,329 - webbase.py - DEBUG - send keys 110300836 成功
+2021-11-18 09:57:50,329 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-18 09:57:50,337 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-18 09:57:50,390 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-18 09:57:50,440 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-18 09:57:50,440 - sanmao_login.py - INFO - 三茅登录结束
+2021-11-18 09:57:51,658 - webbase.py - DEBUG - click ['xpath', ".//div[@class='fn-vip-link-nologin']/preceding-sibling::div[1]"] 成功
+2021-11-18 09:57:58,602 - webbase.py - ERROR - click ['xpath', ".//a[@class='vip-ct-item item1 fn-common-href']"] 失败

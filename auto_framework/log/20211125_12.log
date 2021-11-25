@@ -1,0 +1,20 @@
+2021-11-25 12:58:54,263 - api_sanmao.py - INFO - 开始登录
+2021-11-25 12:58:54,263 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-25 12:58:54,263 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300724}
+2021-11-25 12:58:54,754 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-25 12:58:54,754 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":null,"data":{"setcookie_url":"https:\/\/passport.sanmao.com\/user\/sync_login?sync_already%5B0%5D=1&sync_auth=9MTYVwZPPT4El","need_code":0}}
+2021-11-25 12:58:54,755 - api_hr_upload.py - INFO - 开始上传图片
+2021-11-25 12:58:54,756 - apibase.py - INFO - POST-接口请求地址：https://www.hrloo.com/hr/uc/msg/ajax_upload_cp
+2021-11-25 12:58:54,756 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('file', ('d76c1d9ad54f43929fd96a58058c18d1!400x400.png', <_io.BufferedReader name='F:\\Windows_commit\\auto_framework\\data_hrzl\\hr_pic\\d76c1d9ad54f43929fd96a58058c18d1!400x400.png'>, 'image/jpeg'))]>
+2021-11-25 12:58:55,536 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-25 12:58:55,536 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":"请求成功！","data":"https:\/\/117.hrloo.com\/www\/uploadfile\/2021\/1125\/f22ade2b8870d61aecfbdcee45986f84.png"}
+2021-11-25 12:58:55,556 - api_sanmao.py - INFO - 开始登录
+2021-11-25 12:58:55,556 - apibase.py - INFO - POST-接口请求地址：https://passport.hrloo.com/user/login
+2021-11-25 12:58:55,556 - apibase.py - DEBUG - POST-接口请求体：{'ajax': '1', 'hold': '1', 'password': 'hrloo.com', 'username': 110300724}
+2021-11-25 12:58:55,587 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-25 12:58:55,587 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":null,"data":{"setcookie_url":"https:\/\/passport.sanmao.com\/user\/sync_login?sync_already%5B0%5D=1&sync_auth=DqT9LGl5ZUEbZ","need_code":0}}
+2021-11-25 12:58:55,588 - api_hr_upload.py - INFO - 开始上传资料
+2021-11-25 12:58:55,588 - apibase.py - INFO - POST-接口请求地址：https://zl.sanmao.com/hr/zl/zl/ajax_upload_zl
+2021-11-25 12:58:55,588 - apibase.py - DEBUG - POST-接口请求体：<MultipartEncoder: [('imgFile', ('试卷一主观题.xlsx', <_io.BufferedReader name='F:\\Windows_commit\\auto_framework\\data_hrzl\\hr_zl\\试卷一主观题.xlsx'>, 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'))]>
+2021-11-25 12:58:57,387 - apibase.py - DEBUG - POST-接口的响应码：200
+2021-11-25 12:58:57,387 - apibase.py - DEBUG - POST-接口的返回结果: {"result":0,"msg":"请求成功！","data":"604680"}

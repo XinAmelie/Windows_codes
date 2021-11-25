@@ -1,0 +1,4 @@
+test_data1:
+  - ['', {'result':False,'resultcode':1,'msg': '参数不正确', 'errormsg':''}]
+  - [333333, {'result':False,'resultcode':2,'msg': '课程不存在', 'errormsg':'' }]
+  - [214, {'result':True, 'resultcode':0, 'msg': '获取成功', 'errormsg':''}]

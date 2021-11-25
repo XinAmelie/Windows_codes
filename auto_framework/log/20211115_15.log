@@ -1,0 +1,947 @@
+2021-11-15 15:25:07,754 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:25:07,755 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:25:07,764 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:25:08,261 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:25:08,261 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:25:08,270 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:25:08,321 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:25:08,382 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:25:11,383 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[text()='会员中心']
+2021-11-15 15:25:11,395 - webbase.py - DEBUG - 定位元素('xpath', ".//div[text()='会员中心']")成功
+2021-11-15 15:26:02,609 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:26:02,610 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:26:02,618 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:26:03,118 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:26:03,118 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:26:03,127 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:26:03,184 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:26:03,249 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:26:06,249 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[text()='会员中心']
+2021-11-15 15:26:06,264 - webbase.py - DEBUG - 定位元素('xpath', ".//div[text()='会员中心']")成功
+2021-11-15 15:27:50,229 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:27:50,229 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:27:50,238 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:27:50,825 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:27:50,825 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:27:50,835 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:27:50,886 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:27:50,941 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:27:53,942 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[text()='会员中心']
+2021-11-15 15:27:53,954 - webbase.py - DEBUG - 定位元素('xpath', ".//div[text()='会员中心']")成功
+2021-11-15 15:40:12,367 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:40:12,367 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:40:12,375 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:40:12,875 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 15:40:12,875 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:40:12,883 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:40:12,938 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:40:12,991 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:40:14,031 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:40:26,465 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:40:26,465 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:40:26,474 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:40:26,960 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 15:40:26,960 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:40:26,968 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:40:27,020 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:40:27,074 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:40:27,757 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:40:40,810 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='阿特洛波斯13405']") 不存在
+2021-11-15 15:40:51,869 - webbase.py - ERROR - click ['xpath', ".//div[@class='tit']/a[text()='176毛毛虫']"] 失败
+2021-11-15 15:41:13,407 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:41:13,407 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:41:13,415 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:41:14,012 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 15:41:14,012 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:41:14,021 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:41:14,072 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:41:14,134 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:41:15,098 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:41:27,517 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:41:27,517 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:41:27,526 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:41:28,013 - webbase.py - DEBUG - send keys 110300554 成功
+2021-11-15 15:41:28,013 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:41:28,023 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:41:28,080 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:41:28,138 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:41:28,920 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:41:41,986 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='Benjamin02099']") 不存在
+2021-11-15 15:41:53,047 - webbase.py - ERROR - click ['xpath', ".//div[@class='tit']/a[text()='176毛毛虫']"] 失败
+2021-11-15 15:42:18,674 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:42:18,674 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:42:18,682 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:42:19,183 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:42:19,183 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:42:19,192 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:42:19,250 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:42:19,307 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:42:20,327 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:42:22,956 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='Benjamin02099']") 不存在
+2021-11-15 15:42:22,957 - webbase.py - ERROR - click ['xpath', ".//div[@class='tit']/a[text()='176毛毛虫']"] 失败
+2021-11-15 15:42:30,210 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:42:30,210 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:42:30,218 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:42:30,712 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:42:30,712 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:42:30,720 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:42:30,771 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:42:30,828 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:42:31,509 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:42:33,518 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='阿特洛波斯13405']") 存在
+2021-11-15 15:42:33,572 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='阿特洛波斯13405']"] 成功
+2021-11-15 15:42:35,572 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:42:35,583 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:42:35,628 - webbase.py - DEBUG - send keys 你今天好吗？ 成功
+2021-11-15 15:42:36,629 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:42:36,629 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:42:36,629 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:42:37,630 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:42:37,630 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:42:37,630 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:42:38,651 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:42:38,651 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:42:38,651 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:42:40,704 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-wb-send fn-chat-wb-send active']/span[1]"] 成功
+2021-11-15 15:42:40,754 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/div[1]/img[1]"] 成功
+2021-11-15 15:42:45,908 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:42:45,908 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:42:45,908 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:42:46,680 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:42:46,680 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:42:46,680 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:42:46,815 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:42:46,815 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:42:46,815 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:42:47,849 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:42:47,849 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:42:47,849 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:42:57,425 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:42:59,427 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:42:59,429 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:42:59,457 - webbase.py - DEBUG - send keys 2111636936 成功
+2021-11-15 15:42:59,457 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:42:59,459 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:42:59,473 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:43:00,159 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:43:03,391 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:43:03,621 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='徐渤BOBO']"] 成功
+2021-11-15 15:43:03,621 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:43:03,625 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:43:03,641 - webbase.py - DEBUG - send keys 重新认识下，你好 成功
+2021-11-15 15:43:05,873 - webbase.py - DEBUG - click ['xpath', ".//span[text()='发送']"] 成功
+2021-11-15 15:43:07,995 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:43:07,995 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:43:07,995 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:43:08,770 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:43:08,770 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:43:08,770 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:43:10,824 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:43:10,824 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:43:10,830 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:43:10,853 - webbase.py - DEBUG - send keys 你好啊！ 成功
+2021-11-15 15:43:11,853 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:11,853 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:11,853 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:11,980 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:43:11,980 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:43:11,980 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:43:12,748 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:43:12,748 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:43:12,748 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:43:14,983 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:43:14,984 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:43:14,986 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:43:14,992 - webbase.py - DEBUG - send keys 第一次聊天，紧张了 成功
+2021-11-15 15:43:15,993 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:15,993 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:15,993 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:18,139 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:43:18,139 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:43:18,139 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:43:18,901 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:43:18,901 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:43:18,901 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:43:20,935 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:43:20,935 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:43:20,941 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:43:20,961 - webbase.py - DEBUG - send keys 加油！,放松 成功
+2021-11-15 15:43:21,962 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:21,962 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:21,962 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:22,095 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:43:22,095 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:43:22,095 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:43:22,865 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:43:22,865 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:43:22,865 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:43:25,085 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:43:25,085 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:43:25,087 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:43:25,094 - webbase.py - DEBUG - send keys 嗯嗯 成功
+2021-11-15 15:43:26,094 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:26,094 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:26,094 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:28,227 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:43:28,227 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:43:28,227 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:43:28,999 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:43:28,999 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:43:28,999 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:43:31,051 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:43:31,051 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:43:31,056 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:43:31,073 - webbase.py - DEBUG - send keys 哈哈哈 成功
+2021-11-15 15:43:32,073 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:32,073 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:32,073 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:43:38,327 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:43:38,327 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:43:38,327 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:43:39,099 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:43:39,099 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:43:39,099 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:43:41,099 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='con-desc' and text()='哈哈哈']
+2021-11-15 15:44:57,308 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:44:57,308 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:44:57,317 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:44:57,911 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:44:57,911 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:44:57,919 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:44:57,972 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:44:58,036 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:44:58,979 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:45:12,064 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='阿特洛波斯13405']") 不存在
+2021-11-15 15:45:23,158 - webbase.py - ERROR - click ['xpath', ".//div[@class='tit']/a[text()='176毛毛虫']"] 失败
+2021-11-15 15:47:55,809 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:47:55,809 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:47:55,818 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:47:56,309 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:47:56,309 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:47:56,318 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:47:56,375 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:47:56,438 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:47:57,190 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:47:59,200 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='Benjamin02099']") 存在
+2021-11-15 15:47:59,252 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='Benjamin02099']"] 成功
+2021-11-15 15:48:01,253 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:48:01,262 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:48:01,312 - webbase.py - DEBUG - send keys 你今天好吗？ 成功
+2021-11-15 15:48:02,312 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:48:02,312 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:48:02,312 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:48:03,312 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:48:03,312 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:48:03,312 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:48:04,332 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:48:04,332 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:48:04,332 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:48:06,388 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-wb-send fn-chat-wb-send active']/span[1]"] 成功
+2021-11-15 15:48:06,438 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/div[1]/img[1]"] 成功
+2021-11-15 15:48:11,566 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:48:11,566 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:48:11,566 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:48:12,331 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:48:12,331 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:48:12,331 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:48:12,465 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:48:12,465 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:48:12,465 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:48:13,498 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:48:13,498 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:48:13,498 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:48:24,880 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:48:26,881 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:48:26,884 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:48:26,915 - webbase.py - DEBUG - send keys 2111713263 成功
+2021-11-15 15:48:26,915 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:48:26,918 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:48:26,933 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:48:28,172 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:48:31,406 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:48:32,141 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='徐渤BOBO']"] 成功
+2021-11-15 15:48:32,142 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:48:32,144 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:48:32,157 - webbase.py - DEBUG - send keys 重新认识下，你好 成功
+2021-11-15 15:48:34,409 - webbase.py - DEBUG - click ['xpath', ".//span[text()='发送']"] 成功
+2021-11-15 15:48:36,532 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:48:36,532 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:48:36,532 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:48:37,299 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:48:37,299 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:48:37,299 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:48:39,349 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:48:39,349 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:48:39,354 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:48:39,376 - webbase.py - DEBUG - send keys 你好啊！ 成功
+2021-11-15 15:48:40,377 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:40,377 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:40,377 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:40,496 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:48:40,496 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:48:40,496 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:48:41,267 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:48:41,267 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:48:41,267 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:48:43,502 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:48:43,503 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:48:43,505 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:48:43,511 - webbase.py - DEBUG - send keys 第一次聊天，紧张了 成功
+2021-11-15 15:48:44,511 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:44,511 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:44,511 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:46,644 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:48:46,644 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:48:46,644 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:48:47,415 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:48:47,415 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:48:47,415 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:48:49,448 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:48:49,448 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:48:49,454 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:48:49,467 - webbase.py - DEBUG - send keys 加油！,放松 成功
+2021-11-15 15:48:50,469 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:50,469 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:50,469 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:50,593 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:48:50,593 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:48:50,593 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:48:51,367 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:48:51,367 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:48:51,367 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:48:53,588 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:48:53,588 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:48:53,590 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:48:53,595 - webbase.py - DEBUG - send keys 嗯嗯 成功
+2021-11-15 15:48:54,596 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:54,596 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:54,596 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:48:56,730 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:48:56,730 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:48:56,730 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:48:57,500 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:48:57,500 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:48:57,500 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:48:59,536 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:48:59,537 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:48:59,544 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:48:59,560 - webbase.py - DEBUG - send keys 哈哈哈 成功
+2021-11-15 15:49:00,565 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:49:00,565 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:49:00,565 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:49:06,863 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:49:06,863 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:49:06,863 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:49:07,632 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:49:07,632 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:49:07,632 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:49:09,632 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='con-desc' and text()='哈哈哈']
+2021-11-15 15:49:21,755 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:49:21,755 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:49:21,765 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:49:22,258 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:49:22,258 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:49:22,267 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:49:22,320 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:49:22,376 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:49:23,172 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:49:25,182 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='阿特洛波斯13405']") 存在
+2021-11-15 15:49:25,234 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='阿特洛波斯13405']"] 成功
+2021-11-15 15:49:27,234 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:49:27,243 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:49:27,293 - webbase.py - DEBUG - send keys 你今天好吗？ 成功
+2021-11-15 15:49:28,294 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:49:28,294 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:49:28,294 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:49:29,297 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:49:29,297 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:49:29,297 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:49:30,318 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:49:30,318 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:49:30,318 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:49:32,374 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-wb-send fn-chat-wb-send active']/span[1]"] 成功
+2021-11-15 15:49:32,426 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/div[1]/img[1]"] 成功
+2021-11-15 15:49:37,549 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:49:37,549 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:49:37,549 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:49:38,316 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:49:38,316 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:49:38,316 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:49:38,448 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:49:38,448 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:49:38,448 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:49:39,482 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:49:39,482 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:49:39,482 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:49:49,714 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:49:51,715 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:49:51,729 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:49:51,761 - webbase.py - DEBUG - send keys 2111636936 成功
+2021-11-15 15:49:51,761 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:49:51,767 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:49:51,782 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:49:52,977 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:49:56,216 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:49:56,446 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='徐渤BOBO']"] 成功
+2021-11-15 15:49:56,446 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:49:56,449 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:49:56,461 - webbase.py - DEBUG - send keys 重新认识下，你好 成功
+2021-11-15 15:49:58,692 - webbase.py - DEBUG - click ['xpath', ".//span[text()='发送']"] 成功
+2021-11-15 15:50:00,829 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:50:00,829 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:50:00,829 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:50:01,598 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:50:01,598 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:50:01,598 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:50:03,646 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:50:03,646 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:50:03,651 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:50:03,673 - webbase.py - DEBUG - send keys 你好啊！ 成功
+2021-11-15 15:50:04,673 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:04,673 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:04,673 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:04,796 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:50:04,796 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:50:04,796 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:50:05,566 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:50:05,566 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:50:05,566 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:50:07,806 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:50:07,806 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:50:07,815 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:50:07,830 - webbase.py - DEBUG - send keys 第一次聊天，紧张了 成功
+2021-11-15 15:50:08,830 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:08,830 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:08,830 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:10,961 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:50:10,961 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:50:10,961 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:50:11,732 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:50:11,732 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:50:11,732 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:50:13,766 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:50:13,766 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:50:13,771 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:50:13,786 - webbase.py - DEBUG - send keys 加油！,放松 成功
+2021-11-15 15:50:14,786 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:14,786 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:14,786 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:14,910 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:50:14,910 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:50:14,910 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:50:15,683 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:50:15,683 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:50:15,683 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:50:17,908 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:50:17,909 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:50:17,911 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:50:17,917 - webbase.py - DEBUG - send keys 嗯嗯 成功
+2021-11-15 15:50:18,919 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:18,919 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:18,919 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:21,043 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:50:21,043 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:50:21,043 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:50:21,818 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:50:21,818 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:50:21,818 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:50:23,851 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:50:23,851 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:50:23,857 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:50:23,869 - webbase.py - DEBUG - send keys 哈哈哈 成功
+2021-11-15 15:50:24,870 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:24,870 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:24,870 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:50:31,109 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:50:31,109 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:50:31,109 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:50:31,883 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:50:31,883 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:50:31,883 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:50:33,884 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='con-desc' and text()='哈哈哈']
+2021-11-15 15:51:03,598 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:51:03,599 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:51:03,607 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:51:04,095 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:51:04,095 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:51:04,104 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:51:04,159 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:51:04,220 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:51:05,057 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:51:07,068 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='Benjamin02099']") 存在
+2021-11-15 15:51:07,118 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='Benjamin02099']"] 成功
+2021-11-15 15:51:09,119 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:51:09,128 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:51:09,180 - webbase.py - DEBUG - send keys 你今天好吗？ 成功
+2021-11-15 15:51:10,181 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:51:10,181 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:51:10,181 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:51:11,181 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:51:11,181 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:51:11,181 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:51:12,207 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:51:12,207 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:51:12,207 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:51:14,266 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-wb-send fn-chat-wb-send active']/span[1]"] 成功
+2021-11-15 15:51:14,315 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/div[1]/img[1]"] 成功
+2021-11-15 15:51:19,448 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:51:19,448 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:51:19,448 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:51:20,215 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:51:20,215 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:51:20,215 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:51:20,348 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:51:20,348 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:51:20,348 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:51:21,386 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:51:21,386 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:51:21,386 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:51:30,688 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:51:32,688 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:51:32,694 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:51:32,724 - webbase.py - DEBUG - send keys 2111713263 成功
+2021-11-15 15:51:32,724 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:51:32,726 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:51:32,740 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:51:33,599 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:51:36,832 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:51:39,079 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='徐渤BOBO']"] 成功
+2021-11-15 15:51:39,080 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:51:39,088 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:51:39,101 - webbase.py - DEBUG - send keys 重新认识下，你好 成功
+2021-11-15 15:51:41,328 - webbase.py - DEBUG - click ['xpath', ".//span[text()='发送']"] 成功
+2021-11-15 15:51:43,461 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:51:43,461 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:51:43,461 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:51:44,235 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:51:44,235 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:51:44,235 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:51:46,290 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:51:46,290 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:51:46,295 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:51:46,318 - webbase.py - DEBUG - send keys 你好啊！ 成功
+2021-11-15 15:51:47,321 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:51:47,321 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:51:47,321 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:51:47,450 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:51:47,450 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:51:47,450 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:51:48,217 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:51:48,217 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:51:48,217 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:51:50,450 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:51:50,450 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:51:50,452 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:51:50,460 - webbase.py - DEBUG - send keys 第一次聊天，紧张了 成功
+2021-11-15 15:51:51,461 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:51:51,461 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:51:51,461 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:51:53,593 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:51:53,593 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:51:53,593 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:51:54,368 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:51:54,368 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:51:54,368 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:51:56,401 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:51:56,401 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:51:56,406 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:51:56,426 - webbase.py - DEBUG - send keys 加油！,放松 成功
+2021-11-15 15:51:57,426 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:51:57,426 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:51:57,426 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:51:57,546 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:51:57,546 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:51:57,546 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:51:58,316 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:51:58,316 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:51:58,316 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:52:00,537 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:52:00,537 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:52:00,539 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:52:00,546 - webbase.py - DEBUG - send keys 嗯嗯 成功
+2021-11-15 15:52:01,547 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:52:01,547 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:52:01,547 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:52:03,677 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:52:03,677 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:52:03,677 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:52:04,449 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:52:04,449 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:52:04,449 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:52:06,479 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:52:06,479 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:52:06,485 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:52:06,500 - webbase.py - DEBUG - send keys 哈哈哈 成功
+2021-11-15 15:52:07,500 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:52:07,500 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:52:07,500 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:52:13,758 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:52:13,758 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:52:13,758 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:52:14,516 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:52:14,516 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:52:14,516 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:52:16,516 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='con-desc' and text()='哈哈哈']
+2021-11-15 15:54:20,480 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:54:20,480 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:54:20,488 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:54:20,978 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:54:20,979 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:54:20,987 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:54:21,041 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:54:21,096 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:54:21,953 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:54:23,992 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='阿特洛波斯13405']") 存在
+2021-11-15 15:54:24,046 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='阿特洛波斯13405']"] 成功
+2021-11-15 15:54:26,046 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:54:26,056 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:54:26,108 - webbase.py - DEBUG - send keys 你今天好吗？ 成功
+2021-11-15 15:54:27,110 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:54:27,110 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:54:27,110 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:54:28,110 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:54:28,110 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:54:28,110 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:54:29,135 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:54:29,135 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:54:29,135 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:54:31,207 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-wb-send fn-chat-wb-send active']/span[1]"] 成功
+2021-11-15 15:54:31,256 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/div[1]/img[1]"] 成功
+2021-11-15 15:54:36,381 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:54:36,381 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:54:36,381 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:54:37,149 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:54:37,149 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:54:37,149 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:54:37,296 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:54:37,296 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:54:37,296 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:54:38,337 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:54:38,337 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:54:38,337 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:54:47,272 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:54:49,272 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:54:49,274 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:54:49,303 - webbase.py - DEBUG - send keys 2111636936 成功
+2021-11-15 15:54:49,303 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:54:49,306 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:54:49,320 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:54:50,121 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:54:53,361 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:54:53,590 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='徐渤BOBO']"] 成功
+2021-11-15 15:54:53,591 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:54:53,593 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:54:53,610 - webbase.py - DEBUG - send keys 重新认识下，你好 成功
+2021-11-15 15:54:55,845 - webbase.py - DEBUG - click ['xpath', ".//span[text()='发送']"] 成功
+2021-11-15 15:54:57,979 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:54:57,979 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:54:57,979 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:54:58,751 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:54:58,751 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:54:58,751 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:55:00,812 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:55:00,812 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:55:00,818 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:55:00,843 - webbase.py - DEBUG - send keys 你好啊！ 成功
+2021-11-15 15:55:01,843 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:01,843 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:01,843 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:01,965 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:55:01,965 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:55:01,965 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:55:02,732 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:55:02,732 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:55:02,732 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:55:04,967 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:55:04,967 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:55:04,970 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:55:04,977 - webbase.py - DEBUG - send keys 第一次聊天，紧张了 成功
+2021-11-15 15:55:05,977 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:05,977 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:05,977 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:08,093 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:55:08,093 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:55:08,093 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:55:08,851 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:55:08,851 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:55:08,851 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:55:10,881 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:55:10,881 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:55:10,887 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:55:10,907 - webbase.py - DEBUG - send keys 加油！,放松 成功
+2021-11-15 15:55:11,907 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:11,907 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:11,907 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:12,030 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:55:12,030 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:55:12,030 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:55:12,800 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:55:12,800 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:55:12,800 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:55:15,020 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:55:15,021 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:55:15,023 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:55:15,029 - webbase.py - DEBUG - send keys 嗯嗯 成功
+2021-11-15 15:55:16,029 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:16,029 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:16,029 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:18,161 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:55:18,161 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:55:18,161 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:55:18,933 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:55:18,933 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:55:18,933 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:55:20,967 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:55:20,967 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:55:20,972 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:55:20,988 - webbase.py - DEBUG - send keys 哈哈哈 成功
+2021-11-15 15:55:21,988 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:21,988 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:21,988 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:55:28,243 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:55:28,243 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:55:28,243 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:55:28,999 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:55:28,999 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:55:28,999 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:55:31,000 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='con-desc' and text()='哈哈哈']
+2021-11-15 15:57:22,409 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:57:22,410 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:57:22,418 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:57:22,921 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:57:22,922 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:57:22,929 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:57:22,984 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:57:23,047 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:57:23,644 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:57:25,655 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='Benjamin02099']") 存在
+2021-11-15 15:57:25,706 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='Benjamin02099']"] 成功
+2021-11-15 15:57:27,707 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:57:27,717 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:57:27,768 - webbase.py - DEBUG - send keys 你今天好吗？ 成功
+2021-11-15 15:57:28,770 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:57:28,770 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:57:28,770 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:57:29,772 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:57:29,772 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:57:29,772 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:57:30,791 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:57:30,791 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:57:30,791 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:57:32,845 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-wb-send fn-chat-wb-send active']/span[1]"] 成功
+2021-11-15 15:57:32,897 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/div[1]/img[1]"] 成功
+2021-11-15 15:57:38,037 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:57:38,037 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:57:38,037 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:57:38,800 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:57:38,800 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:57:38,800 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:57:38,938 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:57:38,938 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:57:38,938 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:57:39,967 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:57:39,967 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:57:39,967 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:57:51,475 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:57:53,476 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:57:53,483 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:57:53,517 - webbase.py - DEBUG - send keys 2111713263 成功
+2021-11-15 15:57:53,517 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:57:53,520 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:57:53,535 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:57:54,315 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:57:57,549 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:57:57,777 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='徐渤BOBO']"] 成功
+2021-11-15 15:57:57,778 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:57:57,783 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:57:57,797 - webbase.py - DEBUG - send keys 重新认识下，你好 成功
+2021-11-15 15:58:00,024 - webbase.py - DEBUG - click ['xpath', ".//span[text()='发送']"] 成功
+2021-11-15 15:58:02,160 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:58:02,160 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:58:02,160 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:58:02,937 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:58:02,937 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:58:02,937 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:58:05,004 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:58:05,004 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:58:05,010 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:58:05,030 - webbase.py - DEBUG - send keys 你好啊！ 成功
+2021-11-15 15:58:06,031 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:58:06,031 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:58:06,031 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:58:06,163 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:58:06,163 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:58:06,163 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:58:06,934 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:58:06,934 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:58:06,934 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:58:09,165 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:58:09,165 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:58:09,168 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:58:09,175 - webbase.py - DEBUG - send keys 第一次聊天，紧张了 成功
+2021-11-15 15:58:10,183 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:58:10,183 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:58:10,183 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:58:12,313 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:58:12,313 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:58:12,313 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:58:13,085 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:58:13,085 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:58:13,085 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:58:15,119 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:58:15,119 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:58:15,124 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:58:15,139 - webbase.py - DEBUG - send keys 加油！,放松 成功
+2021-11-15 15:58:16,140 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:58:16,140 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:58:16,140 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:58:16,279 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:58:16,279 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:58:16,279 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:58:17,053 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:58:17,053 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:58:17,053 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:58:19,780 - webbase.py - ERROR - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 失败
+2021-11-15 15:58:27,111 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:58:27,111 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:58:27,118 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:58:27,716 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:58:27,716 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:58:27,723 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:58:27,774 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:58:27,863 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:58:28,724 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:58:39,536 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:58:39,536 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:58:39,544 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:58:40,044 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:58:40,044 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:58:40,052 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:58:40,103 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:58:40,161 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:58:41,023 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:58:53,724 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:58:53,725 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:58:53,733 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:58:54,224 - webbase.py - DEBUG - send keys 1406607478 成功
+2021-11-15 15:58:54,224 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:58:54,233 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:58:54,288 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:58:54,343 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:58:54,989 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:58:56,998 - webbase.py - DEBUG - 只查询：查询元素('xpath', ".//div[@class='tit']/a[text()='Benjamin02099']") 存在
+2021-11-15 15:58:57,053 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='Benjamin02099']"] 成功
+2021-11-15 15:58:59,055 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:58:59,066 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:58:59,114 - webbase.py - DEBUG - send keys 你今天好吗？ 成功
+2021-11-15 15:59:00,119 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:59:00,119 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:59:00,119 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:59:01,120 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:59:01,120 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:59:01,120 - guibase.py - DEBUG - 执行快捷键('shift', 'enter')
+2021-11-15 15:59:02,141 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:59:02,141 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:59:02,141 - guibase.py - DEBUG - 执行快捷键('ctrl', 'v')
+2021-11-15 15:59:04,210 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-wb-send fn-chat-wb-send active']/span[1]"] 成功
+2021-11-15 15:59:04,257 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/div[1]/img[1]"] 成功
+2021-11-15 15:59:09,380 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:59:09,380 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:59:09,380 - guibase.py - DEBUG - 查找对象img存在
+2021-11-15 15:59:10,148 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:59:10,148 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:59:10,148 - guibase.py - DEBUG - 移动到图片 img 位置True, 点击:Point(x=315, y=267) 成功
+2021-11-15 15:59:10,282 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:59:10,282 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:59:10,282 - guibase.py - DEBUG - 查找对象img2存在
+2021-11-15 15:59:11,317 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:59:11,317 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:59:11,317 - guibase.py - DEBUG - 移动到图片 img2 位置True, 点击:Point(x=828, y=378) 成功
+2021-11-15 15:59:20,571 - webbase.py - DEBUG - click ['xpath', ".//div[@class ='new-login-tab']/span[2]"] 成功
+2021-11-15 15:59:22,572 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//p[@class='ps-username fn-login-input-item']/input[1]
+2021-11-15 15:59:22,575 - webbase.py - DEBUG - 定位元素('xpath', ".//p[@class='ps-username fn-login-input-item']/input[1]")成功
+2021-11-15 15:59:22,605 - webbase.py - DEBUG - send keys 2111713263 成功
+2021-11-15 15:59:22,605 - webbase.py - DEBUG - 正在定位元素信息：定位方式->id, value值->j_password
+2021-11-15 15:59:22,610 - webbase.py - DEBUG - 定位元素('id', 'j_password')成功
+2021-11-15 15:59:22,625 - webbase.py - DEBUG - send keys hrloo.com 成功
+2021-11-15 15:59:23,893 - webbase.py - DEBUG - click ['id', 'j_loginbtn'] 成功
+2021-11-15 15:59:27,130 - webbase.py - DEBUG - click ['xpath', ".//div[@class='hr-nfr-item  nfr-msg fn-sms-center-click']/div[1]/div[@class='nfr-text']"] 成功
+2021-11-15 15:59:27,358 - webbase.py - DEBUG - click ['xpath', ".//div[@class='tit']/a[text()='徐渤BOBO']"] 成功
+2021-11-15 15:59:27,359 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:59:27,361 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:59:27,375 - webbase.py - DEBUG - send keys 重新认识下，你好 成功
+2021-11-15 15:59:29,617 - webbase.py - DEBUG - click ['xpath', ".//span[text()='发送']"] 成功
+2021-11-15 15:59:31,754 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:59:31,754 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:59:31,754 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:59:32,517 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:59:32,517 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:59:32,517 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:59:34,570 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:59:34,570 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:59:34,575 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:59:34,601 - webbase.py - DEBUG - send keys 你好啊！ 成功
+2021-11-15 15:59:35,601 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:35,601 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:35,601 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:35,730 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:59:35,730 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:59:35,730 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:59:36,501 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:59:36,501 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:59:36,501 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:59:38,741 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:59:38,741 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:59:38,743 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:59:38,753 - webbase.py - DEBUG - send keys 第一次聊天，紧张了 成功
+2021-11-15 15:59:39,753 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:39,753 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:39,753 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:41,878 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:59:41,878 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:59:41,878 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:59:42,651 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:59:42,651 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:59:42,651 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:59:44,683 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:59:44,683 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:59:44,688 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:59:44,710 - webbase.py - DEBUG - send keys 加油！,放松 成功
+2021-11-15 15:59:45,711 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:45,711 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:45,711 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:45,830 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:59:45,830 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:59:45,830 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 15:59:46,601 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:59:46,601 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:59:46,601 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 15:59:48,823 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:59:48,823 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:59:48,828 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:59:48,831 - webbase.py - DEBUG - send keys 嗯嗯 成功
+2021-11-15 15:59:49,832 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:49,832 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:49,832 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:51,962 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:59:51,962 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:59:51,962 - guibase.py - DEBUG - 查找对象google存在
+2021-11-15 15:59:52,735 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:59:52,735 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:59:52,735 - guibase.py - DEBUG - 移动到图片 google 位置True, 点击:Point(x=1250, y=1060) 成功
+2021-11-15 15:59:54,770 - webbase.py - DEBUG - click ['xpath', ".//div[@class='chat-w-bottom']/textarea[1]"] 成功
+2021-11-15 15:59:54,771 - webbase.py - DEBUG - 正在定位元素信息：定位方式->xpath, value值->.//div[@class='chat-w-bottom']/textarea[1]
+2021-11-15 15:59:54,776 - webbase.py - DEBUG - 定位元素('xpath', ".//div[@class='chat-w-bottom']/textarea[1]")成功
+2021-11-15 15:59:54,791 - webbase.py - DEBUG - send keys 哈哈哈 成功
+2021-11-15 15:59:55,791 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:55,791 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 15:59:55,791 - guibase.py - DEBUG - 执行快捷键('enter',)
+2021-11-15 16:00:02,045 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 16:00:02,045 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 16:00:02,045 - guibase.py - DEBUG - 查找对象fox_browser存在
+2021-11-15 16:00:02,819 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 16:00:02,819 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 16:00:02,819 - guibase.py - DEBUG - 移动到图片 fox_browser 位置True, 点击:Point(x=713, y=1061) 成功
+2021-11-15 16:00:09,842 - guibase.py - DEBUG - 查找对象fox_browser不存在
+2021-11-15 16:00:09,842 - guibase.py - DEBUG - 查找对象fox_browser不存在
+2021-11-15 16:00:09,842 - guibase.py - DEBUG - 查找对象fox_browser不存在

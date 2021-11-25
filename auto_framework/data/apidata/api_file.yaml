@@ -1,0 +1,120 @@
+FilePage:
+  dec: 文件上传下载页面接口数据
+  add_folder: #新建文件夹
+    name: 新建文件夹
+    method: post
+    url: /group/10779/upload
+    header: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+    }
+    query_string: {
+      "p_p_id":"20",
+      "p_p_lifecycle":"1",
+      "p_p_state":"maximized",
+      "p_p_mode":"view",
+      "_20_struts_action":"/document_library/edit_folder"
+    }
+    data: {
+      "_20_cmd":"add",
+      "_20_redirect":"/group/10779/upload",
+      "_20_folderId":"0",
+      "_20_parentFolderId":"0",
+      "_20_tabs1TabsScroll":"",
+      "_20_name":"",
+      "_20_description":""
+    }
+
+  select_folder:
+    name: 查看文件夹是否存在
+    method: post
+    url: /group/10779/upload
+    header: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+    }
+
+  dele_folder:
+    name: 删除文件夹
+    method: post
+    url: /group/10779/upload
+    header: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+    }
+    query_string: {
+      "p_p_id":"20",
+      "p_p_lifecycle":"1",
+      "p_p_state":"maximized",
+      "p_p_mode":"view",
+      "p_p_col_id":"column-1",
+      "p_p_col_count":"1",
+      "_20_struts_action":"/document_library/edit_folder",
+      "_20_cmd":"delete",
+      "_20_redirect":"/group/10779/upload",
+      "_20_folderId":""
+    }
+
+  file_upload:
+    name: 文件上传
+    method: post
+    url: /group/10779/upload
+    header: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+    }
+    query_string: {
+      "p_p_id":"20",
+      "p_p_lifecycle":"1",
+      "p_p_state":"pop_up",
+      "p_p_mode":"view",
+      "_20_struts_action":"/document_library/edit_file_entry"
+    }
+    data: {
+      "_20_cmd":"add",
+      "_20_redirect":"/group/10779/upload?p_p_id=20&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_20_struts_action=%2Fdocument_library%2Fview&_20_folderId=",
+      "_20_referringPortletResource":"",
+      "_20_uploadProgressId":"dlFileEntryUploadProgress",
+      "_20_folderId":"48345",
+      "_20_newFolderId":"",
+      "_20_name":"",
+      "_20_title":"rename",
+      "_20_description":"这是描述信息"
+    }
+
+  select_file:
+    name: 文档查询
+    method: post
+    url: /group/10779/upload
+    header: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+    }
+    query_string: {
+      "p_p_id":"20",
+      "p_p_lifecycle":"0",
+      "p_p_state":"maximized",
+      "p_p_mode":"view",
+      "p_p_col_id":"column-1",
+      "p_p_col_count":"1",
+      "_20_struts_action":"/document_library/search",
+      "_20_redirect":"/group/10779/upload?p_p_id=20&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_20_struts_action=%2Fdocument_library%2Fview&_20_folderId=",
+      "_20_breadcrumbsFolderId":"48345",
+      "_20_searchFolderId":"48345",
+      "_20_keywords":"rename"
+    }
+
+  delete_file:
+    name: 文档删除
+    method: post
+    url: /group/10779/upload
+    header: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+    }
+    query_string: {
+      "p_p_id":"20",
+      "p_p_lifecycle":"1",
+      "p_p_state":"maximized",
+      "p_p_mode":"view",
+      "_20_struts_action":"/document_library/edit_file_entry",
+      "_20_cmd":"delete",
+      "_20_redirect":"/group/10779/upload?p_p_id=20&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_20_struts_action=%2Fdocument_library%2Fsearch&_20_redirect=%2Fgroup%2F10779%2Fupload%3Fp_p_id%3D20%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_20_struts_action%3D%252Fdocument_library%252Fview%26_20_folderId%3D{id}&_20_breadcrumbsFolderId={id}&_20_searchFolderId={id}&_20_searchFolderIds=0&_20_tabs1TabsScroll=&_20_keywords={keywords}",
+      "_20_folderId":"48345",
+      "_20_name":"DLFE-2317.txt"
+    }
+

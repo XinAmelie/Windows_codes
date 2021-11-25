@@ -1,0 +1,17 @@
+login: #登录元素信息
+  username: ["name","_58_login"]
+  password: ["name","_58_password"]
+  loginbtn: ["xpath",".//input[@type='submit' and @value='登录']"]
+  welcome: ["xpath",".//div[@id='banner']/div/h2/span"]
+  error1: ["xpath",".//div[@class='portlet-content-container']/div/form/span"]
+  quitbtn: ["xpath",".//div[@class='lfr-dock-list-container']/ul/li/a"]
+
+qq:
+  qq_icon: "qq_icon.png"
+  qq_login: "qq_login.png"
+  qq_password: "qq_password.png"
+  qq_username: "qq_username.png"
+  qq_loginok: "login_ok.png"
+  qq_menus: "menus.png"
+  qq_loginout: "loginout.png"
+  user_brower: "brower.png"
